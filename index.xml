@@ -148,11 +148,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR brown] [/COLOR]</title>
+<title>-[COLOR yellow] DIABLO 1.0 [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
+<thumbnail>https://i.ytimg.com/vi/k9Re76xTCys/hqdefault.jpg</thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/PLANTILLADIABLO.xml</externallink>	
 </item>
 
 <item>
