@@ -59,7 +59,7 @@
 
 <item>
 <title>[COLOR red]J[/COLOR][COLOR blue]H[/COLOR][COLOR red]G[/COLOR] Ahora me ves 2</title>
-<urlsolve>http://www.videolan.org/x264.html</urlsolve>
+<urlsolve>http://192.168.1.1:5555/DeviceDescription.xml</urlsolve>
 <thumbnail>http://es.web.img2.acsta.net/c_300_300/pictures/16/05/30/10/17/080143.jpg</thumbnail>
 <fanart></fanart>
 </item>
