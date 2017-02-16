@@ -15,6 +15,17 @@
 
 
 
+
+<item>
+<title>-[COLOR yellow] peliculas DIABLO 2.0 [/COLOR]</title>
+<link>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/peliculas%202016-2017.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
 <item>
 <title>-[COLOR yellow] SERIES DIABLO 2.0 [/COLOR]</title>
 <link></link>
@@ -34,15 +45,7 @@
 </item>
 
 
-
-
-<item>
-<title>-[COLOR skyblue] SERIES[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart>http://kinirokay.com/wp-content/uploads/2016/01/Soy-adicto-a-una-serie.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generarseries.xml</externallink>	
-</item> 	
+	
 
 
 
@@ -55,11 +58,3 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/basetodopeliculas.xml</externallink>	
 </item>
 
-
-<item>
-<title>-[COLOR skyblue] VideoClub JHG ***2014**2015***[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/peliculas-/master/VIDEOCLUB20142015.xml</externallink>	
-</item>
