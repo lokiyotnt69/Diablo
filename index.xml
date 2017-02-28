@@ -94,16 +94,40 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>-[COLOR yellow] Cartelera Cine (Nuevo) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://entreestudiantes.upr.edu/uprh/files/2015/01/Main_Head_Banner_Cine.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/basecine.xml</externallink>	
+</item>
+
+	
+
+
+<item>
+<title>-[COLOR yellow]**ESTRENOS 2016**[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart>http://static2.blastingnews.com/media/photogallery/2015/12/26/290x290/b_290x290/fotografia-estrenos-del-2016_541067.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/estrenos2016.xml</externallink>	
+</item>
+
+
 
 
 
 <item>
-<title>-[COLOR yellow] DIABLO 2.0 [/COLOR]</title>
+<title>-[COLOR skyblue] VideoClub JHG[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>https://i.ytimg.com/vi/k9Re76xTCys/hqdefault.jpg</thumbnail>
+<thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/PLANTILLADIABLO.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/basetodopeliculas.xml</externallink>	
 </item>
+
+
+
+
 
 
 
