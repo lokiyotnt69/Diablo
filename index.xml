@@ -95,7 +95,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR yellow] Cartelera Cine (Nuevo) [/COLOR]</title>
+<title>-[COLOR red] Cartelera Cine (Nuevo) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://entreestudiantes.upr.edu/uprh/files/2015/01/Main_Head_Banner_Cine.jpg</thumbnail>
 <fanart></fanart>
@@ -106,7 +106,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR yellow]**ESTRENOS 2016**[/COLOR]</title>
+<title>-[COLOR white]**ESTRENOS 2016**[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart>http://static2.blastingnews.com/media/photogallery/2015/12/26/290x290/b_290x290/fotografia-estrenos-del-2016_541067.jpg</fanart>
@@ -118,7 +118,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR skyblue] VideoClub JHG[/COLOR]</title>
+<title>-[COLOR green] VideoClub JHG[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
