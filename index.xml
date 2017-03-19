@@ -105,13 +105,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-<item>
-<title>-[COLOR red] Cartelera cine (Nuevo) [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://entreestudiantes.upr.edu/uprh/files/2015/01/Main_Head_Banner_Cine.jpg</thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/basecine.xml</externallink>	
-</item>
 
 	
 
@@ -127,10 +120,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
 <item>
-<title>-[COLOR brown] [/COLOR]</title>
+<title>-[COLOR brown] MUNDO INFANTIL [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -138,7 +129,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>-[COLOR brown] [/COLOR]</title>
+<title>-[COLOR brown] SAGAS [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -146,7 +137,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>-[COLOR brown] [/COLOR]</title>
+<title>-[COLOR brown] EL TRUENO[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -154,7 +145,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>-[COLOR brown] [/COLOR]</title>
+<title>-[COLOR brown] SERIES EN CASA [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -162,12 +153,23 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>-[COLOR brown] [/COLOR]</title>
+<title>-[COLOR brown]  MUNDO DIABLO 2.0 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink></externallink>	
 </item>
+
+
+<item>
+<title>-[COLOR red] Cartelera cine (Nuevo) [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://entreestudiantes.upr.edu/uprh/files/2015/01/Main_Head_Banner_Cine.jpg</thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/basecine.xml</externallink>	
+</item>
+
+
 
 <item>
 <title>-[COLOR brown] [/COLOR]</title>
