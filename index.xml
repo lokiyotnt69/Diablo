@@ -121,7 +121,7 @@ http:///get.php?username=&password=&type=m3u
 
 
 <item>
-<title>-[COLOR brown] MUNDO INFANTIL [/COLOR]</title>
+<title>-[COLOR brown] MUNDO INFANTIL (56) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -132,7 +132,7 @@ http:///get.php?username=&password=&type=m3u
 
 
 <item>
-<title>-[COLOR brown] SAGAS [/COLOR]</title>
+<title>-[COLOR blue] SAGAS Reformando[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -148,24 +148,24 @@ http:///get.php?username=&password=&type=m3u
 </item>
 
 <item>
-<title>-[COLOR brown] SERIES EN CASA [/COLOR]</title>
+<title>-[COLOR yellow] SERIES EN CASA Reformando [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generarseries.xml</externallink>	
+</item>
+
+<item>
+<title>-[COLOR brown]  MUNDO DIABLO 2.0 (Cat)[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink></externallink>	
 </item>
 
-<item>
-<title>-[COLOR brown]  MUNDO DIABLO 2.0 [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
-</item>
-
 
 <item>
-<title>-[COLOR red] Cartelera cine (Nuevo) [/COLOR]</title>
+<title>-[COLOR red] Cartelera cine (Nuevo) En proceso [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://entreestudiantes.upr.edu/uprh/files/2015/01/Main_Head_Banner_Cine.jpg</thumbnail>
 <fanart></fanart>
