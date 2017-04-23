@@ -2,7 +2,7 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR lightgreen]  [B]Evento Especial [/COLOR] [COLOR lightslategray]REAL MADRID vs BARCELONA [/B][/COLOR]</title>
+<title>[COLOR lime]JHG[/COLOR][COLOR lightgreen]  [B]Evento Especial [/COLOR] [COLOR lightslategray]REAL MADRID vs BARCELONA [/B][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>http://www.unievents360.com/wp-content/uploads/2013/06/real-madrid-barcelona1.jpg</thumbnail>
 <fanart>http://www.unievents360.com/wp-content/uploads/2017/02/EC12017-18b.png</fanart>
@@ -11,6 +11,14 @@
 
 
 
+
+<item>
+<title>-[COLOR  red] *** [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/CineNetflix.xml</externallink>	
+</item>
 
 
 
@@ -26,14 +34,14 @@
 
  
 <item>
-  <title>[COLOR red][COLOR  yellow]•  [/COLOR][/COLOR][COLOR red]J[/COLOR][COLOR yellow]H[/COLOR][COLOR blue]G[/COLOR] [COLOR red][COLOR  yellow]•[/COLOR]ARENAVISION ESPAÑA[/COLOR]</title>
+  <title>[COLOR red][COLOR  yellow]JHG  [/COLOR][/COLOR][COLOR red]J[/COLOR][COLOR yellow]H[/COLOR][COLOR blue]G[/COLOR] [COLOR red][COLOR  yellow]JHG[/COLOR]ARENAVISION ESPAÑA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-			 <title>[COLOR yellow][COLOR  yellow]•  [/COLOR][/COLOR][COLOR red]J[/COLOR][COLOR yellow]G[/COLOR][COLOR red]P[/COLOR] [COLOR yellow][COLOR  yellow]•[/COLOR][makelist.param2] [/COLOR]</title>
+			 <title>[COLOR yellow][COLOR  yellow]JHG  [/COLOR][/COLOR][COLOR red]J[/COLOR][COLOR yellow]G[/COLOR][COLOR red]P[/COLOR] [COLOR yellow][COLOR  yellow]JHG[/COLOR][makelist.param2] [/COLOR]</title>
 			
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=JGPADDONS +[makelist.param2]</link>
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=JHGMASTER +[makelist.param2]</link>
 			
 			<regex>
 			<name>hash</name>
@@ -74,7 +82,7 @@
   
   
  <item>
-<title>[COLOR red][COLOR red][B]• [/B] [/COLOR][B]PORTUGAL TV[/B][/COLOR]</title>
+<title>[COLOR red][COLOR red][B]JHG [/B] [/COLOR][B]PORTUGAL TV[/B][/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>http://pastebin.com/raw/CigtMuzp</externallink>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/12525310.jpg</fanart>
@@ -84,7 +92,7 @@
 
 
  <item>
-<title>[COLOR green][COLOR green][B]• [/B] [/COLOR][B]LISTAS TEMPORARIAS PORTUGUESAS[/B][/COLOR]</title>
+<title>[COLOR green][COLOR green][B]JHG [/B] [/COLOR][B]LISTAS TEMPORARIAS PORTUGUESAS[/B][/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>https://pastebin.com/raw/b2EppD0K</externallink>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/12525310.jpg</fanart>
@@ -95,7 +103,7 @@
 
 
  <item>
-<title>[COLOR yellow][COLOR yellow][B]• [/B] [/COLOR][B]DESPORTO TV NACIONAL E INTERNACIONAL[/B][/COLOR]</title>
+<title>[COLOR yellow][COLOR yellow][B]JHG [/B] [/COLOR][B]DESPORTO TV NACIONAL E INTERNACIONAL[/B][/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>http://pastebin.com/raw/2HyptJUH</externallink>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/12525310.jpg</fanart>
@@ -105,7 +113,7 @@
 
  
  <item>
-<title>[COLOR white][COLOR white][B]• [/B] [/COLOR][B] SECRET TV-ACESTREAM DESPORTO [/B][/COLOR]</title>
+<title>[COLOR white][COLOR white][B]JHG [/B] [/COLOR][B] SECRET TV-ACESTREAM DESPORTO [/B][/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>https://pastebin.com/raw/aCQ132AH</externallink>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/12525310.jpg</fanart>
@@ -118,7 +126,7 @@
 
 
  <item>
-<title>[COLOR green][COLOR lawngreen][B]• [/B] [/COLOR][B]BRASIL TV[/B][/COLOR]</title>
+<title>[COLOR green][COLOR lawngreen][B]JHG [/B] [/COLOR][B]BRASIL TV[/B][/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>http://pastebin.com/raw/C7yP072e</externallink>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/12525310.jpg</fanart>
@@ -132,7 +140,7 @@
 
 
  <item>
-<title>[COLOR yellow][COLOR yellow][B]• [/B] [/COLOR][B]ESPANHA TV[/B][/COLOR]</title>
+<title>[COLOR yellow][COLOR yellow][B] JHG [/B] [/COLOR][B]ESPAÑA[/B][/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>http://pastebin.com/raw/ghXNKsZk</externallink>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/12525310.jpg</fanart>
@@ -145,7 +153,7 @@
 
 
  <item>
-<title>[COLOR blue][COLOR blue][B]• [/B] [/COLOR][B]FRANCA TV[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR blue][B]JHG [/B] [/COLOR][B]FRANCA TV[/B][/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>http://pastebin.com/raw/VGXzHdY3</externallink>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/12525310.jpg</fanart>
@@ -158,7 +166,7 @@
 
 
  <item>
-<title>[COLOR green][COLOR lawngreen][B]• [/B] [/COLOR][B]ITALIA TV[/B][/COLOR]</title>
+<title>[COLOR green][COLOR lawngreen][B]JHG [/B] [/COLOR][B]ITALIA TV[/B][/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>http://pastebin.com/raw/ivBrA184</externallink>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/12525310.jpg</fanart>
@@ -171,7 +179,7 @@
 
 
  <item>
-<title>[COLOR blue][COLOR blue][B]• [/B] [/COLOR][B]UK TV[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR blue][B]JHG [/B] [/COLOR][B]UK TV[/B][/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>http://pastebin.com/raw/dU0BkKpr</externallink>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/12525310.jpg</fanart>
@@ -184,7 +192,7 @@
 
 
  <item>
-<title>[COLOR blue][COLOR blue][B]• [/B] [/COLOR][B]USA TV[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR blue][B]JHG [/B] [/COLOR][B]USA TV[/B][/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>http://pastebin.com/raw/3bMxKpHk</externallink>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/12525310.jpg</fanart>
@@ -197,7 +205,7 @@
 
 
  <item>
-<title>[COLOR yellow][COLOR yellow][B]• [/B] [/COLOR][B] ALEMANHA TV[/B][/COLOR]</title>
+<title>[COLOR yellow][COLOR yellow][B]JHG [/B] [/COLOR][B] ALEMANIA TV[/B][/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>http://pastebin.com/raw/NqkdzQgV</externallink>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/12525310.jpg</fanart>
@@ -209,7 +217,7 @@
 
 
  <item>
-<title>[COLOR white][COLOR white][B]• [/B] [/COLOR][B] SUICA TV[/B][/COLOR]</title>
+<title>[COLOR white][COLOR white][B]JHG [/B] [/COLOR][B] SUICA TV[/B][/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>http://pastebin.com/raw/Gk2Bx1An</externallink>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/12525310.jpg</fanart>
@@ -220,7 +228,7 @@
 
 
  <item>
-<title>[COLOR red][COLOR red][B]• [/B] [/COLOR][B] AFRICA TV[/B][/COLOR]</title>
+<title>[COLOR red][COLOR red][B]JHG [/B] [/COLOR][B] AFRICA TV[/B][/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>http://pastebin.com/raw/k6WNde9c</externallink>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/12525310.jpg</fanart>
@@ -231,7 +239,7 @@
 
 
  <item>
-<title>[COLOR yellow][COLOR yellow][B]• [/B] [/COLOR][B] ARABIC TV[/B][/COLOR]</title>
+<title>[COLOR yellow][COLOR yellow][B]JHG [/B] [/COLOR][B] ARABIC TV[/B][/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>http://pastebin.com/raw/8La7BVu4</externallink>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/12525310.jpg</fanart>
@@ -241,7 +249,7 @@
 
 
  <item>
-<title>[COLOR blue][COLOR blue][B]• [/B] [/COLOR][B] ALBANIA TV[/B][/COLOR]</title>
+<title>[COLOR blue][COLOR blue][B]JHG [/B] [/COLOR][B] ALBANIA TV[/B][/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>http://pastebin.com/raw/Y7eJV9Xs</externallink>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/12525310.jpg</fanart>
@@ -253,7 +261,7 @@
 
 
  <item>
-<title>[COLOR orange][COLOR orange][B]• [/B] [/COLOR][B]LISTA IPTV[/B][/COLOR]</title>
+<title>[COLOR orange][COLOR orange][B]JHG [/B] [/COLOR][B]LISTA IPTV[/B][/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>http://pastebin.com/raw/5M7nNTKt</externallink>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/12525310.jpg</fanart>
@@ -265,7 +273,7 @@
 
 
  <item>
-<title>[COLOR purple][COLOR purple][B]• [/B] [/COLOR][B]FILMES E SERIES[/B][/COLOR]</title>
+<title>[COLOR purple][COLOR purple][B]JHG [/B] [/COLOR][B]FILMES E SERIES[/B][/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>http://pastebin.com/raw/JruhBgkk</externallink>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/12525310.jpg</fanart>
@@ -277,7 +285,7 @@
 
 
  <item>
-<title>[COLOR red][COLOR red][B]• [/B] [/COLOR][B]RADIO[/B][/COLOR]</title>
+<title>[COLOR red][COLOR red][B]JHG [/B] [/COLOR][B]RADIO[/B][/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>http://pastebin.com/raw/1uJLywCG</externallink>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/12525310.jpg</fanart>
@@ -289,7 +297,7 @@
 
 
  <item>
-<title>[COLOR purple][COLOR purple][B]• [/B] [/COLOR][B]PRAIAS DE PORTUGAL[/B][/COLOR]</title>
+<title>[COLOR purple][COLOR purple][B]JHG [/B] [/COLOR][B]PRAIAS DE PORTUGAL[/B][/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>http://pastebin.com/raw/HsGbKhk2</externallink>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/12525310.jpg</fanart>
@@ -301,7 +309,7 @@
 
 
  <item>
-<title>[COLOR pink][COLOR pink][B]• [/B] [/COLOR][B]+18 ADULTO[/B][/COLOR]</title>
+<title>[COLOR pink][COLOR pink][B]JHG [/B] [/COLOR][B]+18 ADULTO[/B][/COLOR]</title>
 <link>http://MENU.me</link>
 <externallink>http://pastebin.com/raw/PxtPCpKb</externallink>
 <fanart>https://i37.servimg.com/u/f37/19/44/91/43/12525310.jpg</fanart>
