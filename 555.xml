@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>[COLOR cyan] http://facebook.com/groups/worldiptv [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/rafaelpcosta/iptvdospobreslistas.xml/master/lista%20iptv%20world%20pt.xml</externallink>
+<fanart>http://bit.ly/2npQg1N</fanart>
+<info></info>
+</channel>
+<channel>
+<name>[COLOR yellow] BIG WORLD PLAYLIST [inclusive PT] [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/rafaelpcosta/iptvdospobreslistas.xml/master/lista%20iptv%20world%20pt.xml</externallink>
+<fanart>http://bit.ly/2npQg1N</fanart>
+<info></info>
+</channel>
+<channel>
+<name>[COLOR yellow] Arenavision CHANNELS [/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/rafaelpcosta/iptvdospobreslistas.xml/master/arenavision.xml</externallink>
+<fanart>http://bit.ly/2npQg1N</fanart>
+<info></info>
+</channel>
