@@ -1,25 +1,144 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
+<layouttype></layouttype>
+ 
+<channels>
+ 
+</channels><channel>
+<name>[COLOR deepskyblue] https://www.facebook.com/groups/projectiptvtiger/ [/COLOR]</name>
+<thumbnail>http://icons.iconarchive.com/icons/hopstarter/rounded-square/256/Social-Network-Facebook-icon.png</thumbnail>
+<externallink>http://youtube.com</externallink>
+<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
+<info></info>
+     
+<layouttype></layouttype>
+ 
+<channels>
+ 
+</channels><channel>
+<name>[COLOR blue] TEST [COLOR chartreuse]MIX WORLD CHANNELS [/COLOR]</name>
+<thumbnail>http://files.softicons.com/download/web-icons/europe-flags-icons-by-studiotwentyeight/png/256/Portugal.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/rafaelpcosta/fastiptvlistas.xml/master/mix%20world%20playlist.xml</externallink>
+<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
+<info></info>
+     
+<layouttype></layouttype>
+ 
+<channels>
+ 
+</channels><channel>
+<name>[COLOR blue] PORTUGAL [COLOR red]OFF [/COLOR]</name>
+<thumbnail>http://files.softicons.com/download/web-icons/europe-flags-icons-by-studiotwentyeight/png/256/Portugal.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/rafaelpcosta/fastiptvlistas.xml/master/portugal.xml</externallink>
+<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
+<info></info>
+
+<layouttype></layouttype>
+ 
+<channels>
+ 
+</channels><channel>
+<name>[COLOR blue] PORTUGAL 2 [best server] [/COLOR]</name>
+<thumbnail>http://files.softicons.com/download/web-icons/europe-flags-icons-by-studiotwentyeight/png/256/Portugal.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/rafaelpcosta/fastiptvlistas.xml/master/portugal%202.xml</externallink>
+<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
+<info></info>
+     
+<layouttype></layouttype>
+ 
+<channels>
+     
+</channel>
+<channel>
+<name>[COLOR blue] BRASIL [/COLOR]</name>
+<thumbnail>http://wfarm2.dataknet.com/static/resources/icons/set42/1b60a343.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/rafaelpcosta/fastiptvlistas.xml/master/canais%20br.xml</externallink>
+<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
+<info></info>
+</channel> 
+
+<layouttype></layouttype>
+ 
 <channels>
 
 <channel>
-<name>[COLOR cyan] http://facebook.com/groups/worldiptv [/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/rafaelpcosta/iptvdospobreslistas.xml/master/lista%20iptv%20world%20pt.xml</externallink>
-<fanart>http://bit.ly/2npQg1N</fanart>
+<name>[COLOR blue] sports WORLD [/COLOR]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/rafaelpcosta/fastiptvlistas.xml/master/sports%20world.xml</externallink>
+<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
+<info></info>
+</channel> 
+
+<layouttype></layouttype>
+
+<channels>
+
+<channel>
+<name>[COLOR blue] ArenaVision [/COLOR]</name>
+<thumbnail>https://pbs.twimg.com/profile_images/788852870993027072/giwZj-BU.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/rafaelpcosta/fastiptvlistas.xml/master/arenavision.xml</externallink>
+<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
+<info></info>
+</channel> 
+
+<layouttype></layouttype>
+
+<channels>
+ 
+<channel>
+<name>[COLOR blue] FILMES [HQ] [/COLOR]</name>
+<thumbnail>https://lh5.googleusercontent.com/--KLTTOSFTMk/UDM-qNRO4BI/AAAAAAAAB7U/h8_KmTfWXeU/s256/filmes2.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/rafaelpcosta/fastiptvlistas.xml/master/filmes.xml</externallink>
+<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
+<info></info>
+</channel> 
+
+<layouttype></layouttype>
+
+<channels>
+
+<channel>
+<name>[COLOR blue] RADIOS PT [/COLOR]</name>
+<thumbnail>http://www.freeiconspng.com/uploads/radio-multimedia-icon-png-2.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/rafaelpcosta/fastiptvlistas.xml/master/radios.xml</externallink>
+<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
 <info></info>
 </channel>
+
+<layouttype></layouttype>
+
+<channels>
+
 <channel>
-<name>[COLOR yellow] BIG WORLD PLAYLIST [inclusive PT] [/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/rafaelpcosta/iptvdospobreslistas.xml/master/lista%20iptv%20world%20pt.xml</externallink>
-<fanart>http://bit.ly/2npQg1N</fanart>
+<name>[COLOR blue] CAMERAS PT [/COLOR]</name>
+<thumbnail>http://files.softicons.com/download/web-icons/europe-flags-icons-by-studiotwentyeight/png/256/Portugal.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/rafaelpcosta/fastiptvlistas.xml/master/cameras.xml</externallink>
+<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
 <info></info>
-</channel>
+</channel> 
+
+<layouttype></layouttype>
+ 
+<channels>
+
 <channel>
-<name>[COLOR yellow] Arenavision CHANNELS [/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/rafaelpcosta/iptvdospobreslistas.xml/master/arenavision.xml</externallink>
-<fanart>http://bit.ly/2npQg1N</fanart>
+<name>[COLOR blue] CANAIS MUSICA [/COLOR]</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-sP2XOJ2xksCi9thcY0fIpR-Hye7-BKmn6z9oSE5Z_YLhYeQ9</thumbnail>
+<externallink>https://raw.githubusercontent.com/rafaelpcosta/fastiptvlistas.xml/master/canais-de-muisca.xml</externallink>
+<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
+<info></info>
+</channel> 
+
+<layouttype></layouttype>
+ 
+<channels>
+
+<channel>
+<name>[COLOR yellow] Mercury Addon [/COLOR]</name>
+<thumbnail>http://www.mercuryeng.com/ie/wp-content/uploads/sites/4/2014/01/Official-Logo.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/antoniovsc/supermundo_tuga.xml/master/tuga.xml</externallink>
+<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
 <info></info>
 </channel>
