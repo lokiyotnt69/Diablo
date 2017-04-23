@@ -26,14 +26,36 @@
 
  
 <item>
-<title>[COLOR red][COLOR  yellow] JHG  [/COLOR][/COLOR][COLOR red]J[/COLOR][COLOR yellow]H[/COLOR][COLOR blue]G[/COLOR] [COLOR red][COLOR  yellow]  [/COLOR]PELIS A LA CARTA DEPORTES A LA CARTA ARENAVISION SPECTO CINE ADDONS LALIGA ROJA DIRECTA Y ZEM</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://3.bp.blogspot.com/-b0mnv00svlM/WPaxKGmut5I/AAAAAAAAABc/QJJA4R3d6Qg9MC6XAvBI0ic802ROdlfSwCLcB/s1600/4_6019409391332098103.png</thumbnail>
-<fanart>https://3.bp.blogspot.com/-b0mnv00svlM/WPaxKGmut5I/AAAAAAAAABc/QJJA4R3d6Qg9MC6XAvBI0ic802ROdlfSwCLcB/s1600/4_6019409391332098103.png</fanart>
-<externallink>https://pastebin.com/raw/svEx0p0G</externallink>	
+  <title>[COLOR red][COLOR  yellow]•  [/COLOR][/COLOR][COLOR red]J[/COLOR][COLOR yellow]H[/COLOR][COLOR blue]G[/COLOR] [COLOR red][COLOR  yellow]•[/COLOR]ARENAVISION ESPAÑA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+			 <title>[COLOR yellow][COLOR  yellow]•  [/COLOR][/COLOR][COLOR red]J[/COLOR][COLOR yellow]G[/COLOR][COLOR red]P[/COLOR] [COLOR yellow][COLOR  yellow]•[/COLOR][makelist.param2] [/COLOR]</title>
+			
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=JGPADDONS +[makelist.param2]</link>
+			
+			<regex>
+			<name>hash</name>
+			<expres>\/embed\/(.*?)"</expres>
+			<page>http://freelive365.com/[makelist.param1]</page>
+			<referer>http://freelive365.com/</referer>
+			</regex>
+			<regex>
+			<name>code</name>
+			<expres>$pyFunction:('[makelist.param1]').replace(' ','%20')</expres>
+			<page></page>
+			</regex>
+
+			
+			<thumbnail>http://freelive365.com/[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>href='(.*?)\&[\w\W\s]{0,95}70%>(.*?)<[\w\W\s]{0,25}src="(.*?)"</expres>
+<page>http://freelive365.com/live_info.php?id=6</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </item>
-
-
  
 
   
