@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels_info>
+<title>Peliculas JHGMASTER</title>
+<thumbnail>http://i.imgur.com/Zmwqtct.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channels>
+ 
+<channel>
+<name>[COLOR green]Netflix JHGMASTER[/COLOR]</name>
+<thumbnail>http://i.imgur.com/QroGrUE.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+ 
+<channel>
+<name>                                                                                 </name>
+<thumbnail>http://i.imgur.com/Zmwqtct.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+
+<item>
+<title>[COLOR red]Netflix:[/COLOR][COLOR yellow] Cine JHGMASTER[/COLOR]</title>
+<link>http://Ignoreme.com</link>
+<thumbnail>http://i.imgur.com/Zmwqtct.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>                                  </title>
+<link>http://Ignoreme.com</link>
+<thumbnail>http://i.imgur.com/Zmwqtct.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+
+
+</channel>
+
+
+
+
+
+<channel>
+<name>[COLOR red]Netflix:[/COLOR][COLOR yellow] CineTorrent [/COLOR] [COLOR white](Necesario Quasar, Pulsar, etc.) [/COLOR]</name>
+<thumbnail>http://i.imgur.com/dhrLkSg.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+ 
+<item>
+<title>[COLOR red]Netflix:[/COLOR][COLOR yellow] CineTorrent [/COLOR] [COLOR white](Necesario Quasar, Pulsar, etc.) [/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>http://ofilreylistfebrero.blogspot.com.es/p/peliculas-por-quasar.html</externallink>
+<thumbnail>http://i.imgur.com/dhrLkSg.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+</channel>
+
+
+<channel>
+<name>[COLOR red]Netflix:[/COLOR][COLOR yellow] Super Cine[/COLOR] [COLOR white](Tarda en cargar las listas, paciencia) [/COLOR]</name>
+<thumbnail>http://i.imgur.com/6envYCG.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+
+<item>
+<title>[COLOR red]Netflix: [/COLOR][COLOR yellow]Super Cine[/COLOR] [COLOR white](Tarda en cargar las listas, paciencia) [/COLOR]</title>
+<link>ignorme</link>
+<jsonrpc>plugin://plugin.video.cine/</jsonrpc>
+<thumbnail>http://i.imgur.com/6envYCG.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+</channel>
+
+
+
+<channel>
+<name>[COLOR red]Netflix:[/COLOR][COLOR yellow] Multicines[/COLOR] [COLOR white](10 Salas)[/COLOR]</name>
+<thumbnail>http://www.ccelrecreo.com/wp-content/uploads/2014/06/multicines.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+ 
+<item>
+<title>[COLOR red]Netflix:[/COLOR][COLOR yellow] Multicines[/COLOR] [COLOR white](10 Salas)[/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/54ivg2hjkxvqnti/multicines.html?dl=0</externallink>
+<thumbnail>http://www.ccelrecreo.com/wp-content/uploads/2014/06/multicines.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+</channel>
+
+
+
+<channel>
+<name>[COLOR red]Netflix:[/COLOR][COLOR yellow] Géneros del Cine[/COLOR] [COLOR white](Op. 1)[/COLOR]</name>
+<thumbnail>http://i.imgur.com/kAptTdB.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+
+<item>
+<title>[COLOR red]Netflix:[/COLOR][COLOR yellow] Géneros del Cine[/COLOR] [COLOR white](Op. 1)[/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+  <name>makelist2</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR deepskyblue][makelist2.param1][/COLOR]</title>
+        <link>$doregex[makelist]</link>
+		<thumbnail>http://i.imgur.com/kAptTdB.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+        ]]></listrepeat>
+<expres>Server:"(.*?)" src="(.*?)"</expres>
+<page>http://adryanlist.org/adryan/kozm.txt</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+  <name>makelist</name>
+  <listrepeat><![CDATA[
+        <title>[COLOR deepskyblue][makelist.param3]  [/COLOR]</title>
+        <link>$doregex[getUrl]</link>
+        ]]></listrepeat>
+<expres><![CDATA[href="\/.*,(.*?),list.*\n.*\n.*\n.*href="\/([^"]*)".*?>(.*?)<]]></expres>
+<page>[makelist2.param2]</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>DownloadUrl":"([^"]+)<expres>
+<page>http://diskokosmiko.mx/action/DownloadFile?location=fi&amp;f=[makelist.param1]</page>
+<rawpost>fileId=[makelist.param1]&__RequestVerificationToken=$doregex[tok]</rawpost>
+<referer>http://diskokosmiko.mx/[makelist.param2]</referer>
+<connection>keep-alive</connection>
+<accept>*/*</accept>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>tok</name>
+<expres>DownloadFile.*RequestVerificationToken.*?value="([^"]+)<expres>
+<page>http://diskokosmiko.mx/[makelist.param2]</page>
+<referer>[makelist2.param2]</referer>
+<connection>keep-alive</connection>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i.imgur.com/kAptTdB.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+</channel>
+
+
+
+
+
+<channel>
+<name>[COLOR red]Netflix:[/COLOR][COLOR yellow] Géneros del Cine[/COLOR] [COLOR white](Op. 2)[/COLOR]</name>
+<thumbnail>http://i.imgur.com/SxT9DiO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+ 
+<item>
+<title>[COLOR red]Netflix:[/COLOR][COLOR yellow] Géneros del Cine[/COLOR] [COLOR white](Op. 2)[/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>http://ofilreylistfebrero.blogspot.com.es/p/peliculas-por-genero.html</externallink>
+<thumbnail>http://i.imgur.com/SxT9DiO.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+</channel>
+
+
+
+<channel>
+<name>[COLOR red]Netflix:[/COLOR][COLOR yellow] Sagas de Cine[/COLOR] </name>
+<thumbnail>http://i.imgur.com/BJjACh5.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+ 
+<item>
+<title>[COLOR red]Netflix:[/COLOR][COLOR yellow] Sagas de Cine[/COLOR] </title>
+<link>http://ignoreme</link>
+<externallink>http://ofilreylistfebrero.blogspot.com.es/p/peliculas-sagas.html</externallink>
+<thumbnail>http://i.imgur.com/BJjACh5.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+</channel>
+
+
+
+
+<channel>
+<name>[COLOR red]Netflix:[/COLOR][COLOR yellow] Cine Retro[/COLOR] [COLOR white](7 Salas)[/COLOR]</name>
+		<thumbnail>http://mediaserver.dwpub.com/press-release/6224/Reel+Sixty+retro+image.jpg</thumbnail>
+		<fanart>http://www.thecreativeissue.com.au/wp-content/uploads/2016/02/copy-home-cineretro-logo.jpg</fanart>
+ 
+<item>
+<title>[COLOR red]Netflix:[/COLOR][COLOR yellow] Cine Retro[/COLOR] [COLOR white](7 Salas)[/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/tibk3q51539ci10/cine%20Retro.html?dl=0</externallink>
+		<thumbnail>http://mediaserver.dwpub.com/press-release/6224/Reel+Sixty+retro+image.jpg</thumbnail>
+		<fanart>http://www.thecreativeissue.com.au/wp-content/uploads/2016/02/copy-home-cineretro-logo.jpg</fanart>
+</item>
+</channel>
+
+
+
+<channel>
+<name>[COLOR red]Netflix:[/COLOR][COLOR yellow] Cine Retro[/COLOR] [COLOR red]Es[/COLOR][COLOR yellow]pa[/COLOR][COLOR red]ñol[/COLOR] [COLOR white](6 Salas)[/COLOR]</name>
+<thumbnail>https://image.freepik.com/vector-gratis/letrero-de-cine-retro_23-2147506653.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+ 
+<item>
+<title>[COLOR red]Netflix:[/COLOR][COLOR yellow] Cine Retro[/COLOR] [COLOR red]Es[/COLOR][COLOR yellow]pa[/COLOR][COLOR red]ñol[/COLOR] [COLOR white](6 Salas)[/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/d70fedr95ra68iz/Cine%20retro%20Espa%C3%B1ol.html?dl=0</externallink>
+<thumbnail>https://image.freepik.com/vector-gratis/letrero-de-cine-retro_23-2147506653.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+</channel>
+
+
+<channel>
+<name>                                                                                 </name>
+<thumbnail>http://i.imgur.com/Zmwqtct.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+
+<item>
+<title>                                  </title>
+<link>http://Ignoreme.com</link>
+<thumbnail>http://i.imgur.com/Zmwqtct.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+
+
+
+
+<item>
+<title>[COLOR red]También te puede interesar,[/COLOR] [COLOR red]Netflix Cine: [/COLOR][COLOR skyblue]Pelis[/COLOR][COLOR white]ala[/COLOR][COLOR skyblue]carta[/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>http://ofilreylistfebrero.blogspot.com.es/p/pelisalacarta-servidores-de-cine.html</externallink>
+<thumbnail>http://i.imgur.com/hYVNxbT.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR red]También te puede interesar,[/COLOR] [COLOR skyblue]Video-Club 2.0[/COLOR]</title>
+<link>http://ignoreme</link>
+<jsonrpc>plugin://plugin.video.videoclup/</jsonrpc>
+<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR red]También te puede interesar,[/COLOR] [COLOR skyblue]Taquillas:[/COLOR][COLOR orange] Movistar +[/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>http://ofilreylistfebrero.blogspot.com.es/p/taquilla-movistar-plus.html</externallink>
+<thumbnail>http://i.imgur.com/FZUe0Jc.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR red]También te puede interesar,[/COLOR] [COLOR red]Netflix:[/COLOR][COLOR yellow] Películas Infantiles[/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>http://ofilreylistfebrero.blogspot.com.es/p/peliculas-infantiles.html</externallink>
+<thumbnail>http://i.imgur.com/H8inbhN.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>                                  </title>
+<link>http://Ignoreme.com</link>
+<thumbnail>http://i.imgur.com/Zmwqtct.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+
+</channel>
+
+
+
+
+<channel>
+<name>[COLOR red]Netflix:[/COLOR][COLOR yellow] Películas HD[/COLOR]</name>
+<thumbnail>http://i.imgur.com/Zmwqtct.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+ 
+ 
+<item>
+<title>[COLOR red]Netflix:[/COLOR][COLOR yellow] Películas HD[/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>http://ofilreylistfebrero.blogspot.com.es/p/hdfull.html</externallink>
+<thumbnail>http://i.imgur.com/Zmwqtct.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+</channel>
+
+
+<item>
+<title>[COLOR aquamarine]                                          [/COLOR]</title>
+<link>http://ignoreme</link>
+<thumbnail>http://i.imgur.com/DbnjLHj.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+
+
+
+
+
+</channel>
