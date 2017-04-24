@@ -40,7 +40,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-			 <title>[COLOR yellow][COLOR  yellow]JHG  [/COLOR][/COLOR][COLOR red]J[/COLOR][COLOR yellow]H[/COLOR][COLOR red]G[/COLOR] [COLOR yellow][COLOR  yellow]JHG[/COLOR][makelist.param2] [/COLOR]</title>
+			 <title>[COLOR yellow][COLOR  yellow]JHG  [/COLOR][/COLOR] [COLOR yellow][COLOR  yellow] MASTER [/COLOR][makelist.param2] [/COLOR]</title>
 			
 			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=JHGMASTER +[makelist.param2]</link>
 			
