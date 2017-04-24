@@ -113,6 +113,46 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
 
+<item>
+  <title>[COLOR red][COLOR  yellow]JHG  [/COLOR][/COLOR][COLOR red]J[/COLOR][COLOR yellow]H[/COLOR][COLOR blue]G[/COLOR] [COLOR red][COLOR  yellow]JHG[/COLOR]ARENAVISION ESPAÑA[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+			 <title>[COLOR yellow][COLOR  yellow]JHG  [/COLOR][/COLOR] [COLOR yellow][COLOR  yellow] MASTER [/COLOR][makelist.param2] [/COLOR]</title>
+			
+			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=JHGMASTER +[makelist.param2]</link>
+			
+			<regex>
+			<name>hash</name>
+			<expres>\/embed\/(.*?)"</expres>
+			<page>http://freelive365.com/[makelist.param1]</page>
+			<referer>http://freelive365.com/</referer>
+			</regex>
+			<regex>
+			<name>code</name>
+			<expres>$pyFunction:('[makelist.param1]').replace(' ','%20')</expres>
+			<page></page>
+			</regex>
+
+			
+			<thumbnail>http://freelive365.com/[makelist.param3]</thumbnail>
+]]></listrepeat>
+<expres>href='(.*?)\&[\w\W\s]{0,95}70%>(.*?)<[\w\W\s]{0,25}src="(.*?)"</expres>
+<page>http://freelive365.com/live_info.php?id=6</page>
+</regex>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+<item>
+ <title> PELIS A LA CARTA </title>
+<link>http://Ignoreme</link>
+<jsonrpc>plugin://plugin.video.pelisalacarta/</jsonrpc>
+<thumbnail>http://blog.tvalacarta.info/img/pelisalacarta-256x256.png</thumbnail>
+<fanart></fanart>
+</item>
 
  
 
