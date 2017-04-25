@@ -114,12 +114,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
 <item>
-  <title>[COLOR red][COLOR  yellow]JHG  [/COLOR][/COLOR][COLOR red]J[/COLOR][COLOR yellow]H[/COLOR][COLOR blue]G[/COLOR] [COLOR red][COLOR  yellow]JHG[/COLOR]ARENAVISION ESPAÑA[/COLOR]</title>
+  <title>[COLOR red][COLOR  yellow]  [/COLOR][/COLOR][COLOR red]J[/COLOR][COLOR yellow]H[/COLOR][COLOR blue]G[/COLOR] [COLOR red][COLOR  yellow][/COLOR]ARENAVISION ESPAÑA[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-			 <title>[COLOR yellow][COLOR  yellow]JHG  [/COLOR][/COLOR] [COLOR yellow][COLOR  yellow] MASTER [/COLOR][makelist.param2] [/COLOR]</title>
+			 <title>[COLOR red][COLOR  yellow]JHG  [/COLOR][/COLOR] [COLOR yellow][COLOR  blue] MASTER [/COLOR][makelist.param2] [/COLOR]</title>
 			
 			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=JHGMASTER +[makelist.param2]</link>
 			
