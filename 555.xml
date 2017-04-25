@@ -26,54 +26,7 @@
      
 <layouttype></layouttype>
  
-<channels>
- 
-</channels><channel>
-<name>[COLOR blue] PORTUGAL [COLOR red]OFF [/COLOR]</name>
-<thumbnail>http://files.softicons.com/download/web-icons/europe-flags-icons-by-studiotwentyeight/png/256/Portugal.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/rafaelpcosta/fastiptvlistas.xml/master/portugal.xml</externallink>
-<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
-<info></info>
 
-<layouttype></layouttype>
- 
-<channels>
- 
-</channels><channel>
-<name>[COLOR blue] PORTUGAL 2 [best server] [/COLOR]</name>
-<thumbnail>http://files.softicons.com/download/web-icons/europe-flags-icons-by-studiotwentyeight/png/256/Portugal.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/rafaelpcosta/fastiptvlistas.xml/master/portugal%202.xml</externallink>
-<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
-<info></info>
-     
-<layouttype></layouttype>
- 
-<channels>
-     
-</channel>
-<channel>
-<name>[COLOR blue] BRASIL [/COLOR]</name>
-<thumbnail>http://wfarm2.dataknet.com/static/resources/icons/set42/1b60a343.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/rafaelpcosta/fastiptvlistas.xml/master/canais%20br.xml</externallink>
-<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
-<info></info>
-</channel> 
-
-<layouttype></layouttype>
- 
-<channels>
-
-<channel>
-<name>[COLOR blue] sports WORLD [/COLOR]</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sport_balls.svg/2000px-Sport_balls.svg.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/rafaelpcosta/fastiptvlistas.xml/master/sports%20world.xml</externallink>
-<fanart>http://i68.tinypic.com/256tvuq.jpg</fanart>
-<info></info>
-</channel> 
-
-<layouttype></layouttype>
-
-<channels>
 
 
 <channel>
