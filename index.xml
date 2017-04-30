@@ -123,6 +123,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
  
 
+ 
+
+<item>
+<title>[COLOR white] JOTAVCDON [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/JotaVCDon.xml</externallink>	
+</item>
+ 
+ 
+ 
 <item>
   <title>[COLOR red][COLOR  gold]  [/COLOR][/COLOR][COLOR red]J[/COLOR][COLOR yellow]H[/COLOR][COLOR blue]G[/COLOR] [COLOR red][COLOR  yellow][/COLOR]ARENAVISION ESPAÑA[/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -214,14 +226,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-
-<item>
-<title>[COLOR white] JOTAVCDON [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/JotaVCDon.xml</externallink>	
-</item>
  
 
 
