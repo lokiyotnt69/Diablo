@@ -171,7 +171,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://raw.githubusercontent.com/LReylist/repository.LReylist_Oficial/master/addons.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/NewPCT1.xml</externallink>	
 </item>
   
 
@@ -296,27 +296,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/CineNetflix.xml</externallink>	
 </item>
 
-<addon id="plugin.video.SportsDevil" version="201703060" name="SportsDevil" provider-name="LRey-SportsDevil">
-  <requires>
-   <import addon="xbmc.python" version="2.14.0"/>
-   <import addon="script.module.dateutil" />
-   <import addon="script.module.simplejson" />
-   <import addon="script.module.six" />
-   <import addon="script.module.requests" />
-   <import addon="script.module.livestreamer" />
-  </requires>
-  <extension
-    point="xbmc.python.pluginsource"
-    library="default.py">
-   <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>LReylist</summary>
-    <description>Version retocada por JHG 30-04-2017</description>
-	<description>No se autoriza su distribucion</description>
-    <platform>all</platform>
-  </extension>
-</addon>
+
 
 
 
