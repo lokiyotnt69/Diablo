@@ -164,7 +164,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
- 
+
+
+<item>
+<title>[COLOR white] NEWPCT1 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/NewPCT1.xml</externallink>	
+</item>
+  
 
 <item>
 <title>[COLOR white] Cine Diablo [/COLOR]</title>
@@ -286,7 +295,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/CineNetflix.xml</externallink>	
 </item>
-
 
 
 
