@@ -1,22 +1,39 @@
-<addon id="plugin.video.SportsDevil" version="201703060" name="SportsDevil" provider-name="LRey-SportsDevil">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-  <requires>
-   <import addon="xbmc.python" version="2.14.0"/>
-   <import addon="script.module.dateutil" />
-   <import addon="script.module.simplejson" />
-   <import addon="script.module.six" />
-   <import addon="script.module.requests" />
-   <import addon="script.module.livestreamer" />
-  </requires>
-  <extension
-    point="xbmc.python.pluginsource"
-    library="default.py">
-   <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>LReylist</summary>
-    <description>Version retocada por LRey 06-03-2017</description>
-	<description>No se autoriza su distribucion</description>
-    <platform>all</platform>
-  </extension>
-</addon>
+
+
+
+<item>
+<title>-[COLOR  yellow] ZONA NETFLIX [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+<item>
+<title>-[COLOR  yellow] TAQUILLAS MOVISTAR [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+<item>
+<title>-[COLOR  yellow] Deportes [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://pastebin.com/q8ckAiF9</externallink>	
+</item>
+
+
+<item>
+<title>-[COLOR  yellow] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
