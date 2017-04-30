@@ -215,8 +215,24 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-	
+<item>
+<title>[COLOR white] JOTAVCDON [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/JotaVCDon.xml</externallink>	
+</item>
+ 
 
+
+<item>
+<title>[COLOR white]  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+ 
 <item>
 <title>-[COLOR green] VideoClub [/COLOR]</title>
 <link>http://Ignoreme</link>
