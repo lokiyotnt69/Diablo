@@ -185,7 +185,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/Taquilla.xml</externallink>	
 </item>
 
-
+ 
+<item>
+<title>[COLOR white] **SAGA Dragon Ball** [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</thumbnail>
+<fanart>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/SagaGoku.xml</externallink>	
+</item>
+ 
 
 <item>
 <title>[COLOR white] Zona latina [/COLOR]</title>
