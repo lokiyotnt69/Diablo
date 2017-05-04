@@ -158,6 +158,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
 
+<item>
+<title>-[COLOR  yellow] SAGAS[/COLOR][COLOR  yellow] DEDICADO [/COLOR][COLOR  yellow] ANGEL [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/sagas.xml</externallink>	
+</item>
+
+
 
 <item>
  <title>[COLOR  yellow] PELIS A LA CARTA[/COLOR]  </title>
@@ -168,14 +177,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
  
-<item>
-<title>-[COLOR green] VideoClub [/COLOR][COLOR white] DIABLO [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/basetodopeliculas.xml</externallink>	
-</item>
-
 
  
 <item>
