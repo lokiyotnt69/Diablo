@@ -66,7 +66,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>                                            [B][COLOR blue]DELIA[/COLOR][COLOR yellow]MONTSE[/COLOR][COLOR red] JUANJO [/COLOR]ANGEL[COLOR red][/COLOR][COLOR red][/COLOR][/B] Por su APOYO       </title>
+<title>                                            [B][COLOR blue]DELIA[/COLOR][COLOR yellow]MONTSE[/COLOR][COLOR skyblue] JUANJO [/COLOR]ANGEL[COLOR red]ION[/COLOR][COLOR red][/COLOR][/B] Por su APOYO       </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -135,41 +135,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
  
-<item>
-  <title>[COLOR red][COLOR  gold]  [/COLOR][/COLOR][COLOR red]J[/COLOR][COLOR yellow]H[/COLOR][COLOR blue]G[/COLOR] [COLOR red][COLOR  yellow][/COLOR]ARENAVISION ESPAÑA[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-			 <title>[COLOR red][COLOR  yellow]JHG  [/COLOR][COLOR  blue] MASTER [/COLOR][makelist.param2] [/COLOR]</title>
-			
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=JHGMASTER +[makelist.param2]</link>
-			
-			<regex>
-			<name>hash</name>
-			<expres>\/embed\/(.*?)"</expres>
-			<page>http://freelive365.com/[makelist.param1]</page>
-			<referer>http://freelive365.com/</referer>
-			</regex>
-			<regex>
-			<name>code</name>
-			<expres>$pyFunction:('[makelist.param1]').replace(' ','%20')</expres>
-			<page></page>
-			</regex>
-
-			
-			<thumbnail>http://freelive365.com/[makelist.param3]</thumbnail>
-]]></listrepeat>
-<expres>href='(.*?)\&[\w\W\s]{0,95}70%>(.*?)<[\w\W\s]{0,25}src="(.*?)"</expres>
-<page>http://freelive365.com/live_info.php?id=6</page>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 
 <item>
- <title> PELIS A LA CARTA </title>
+ <title>[COLOR  yellow] PELIS A LA CARTA[/COLOR]  </title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.pelisalacarta/</jsonrpc>
 <thumbnail>http://blog.tvalacarta.info/img/pelisalacarta-256x256.png</thumbnail>
@@ -315,16 +284,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>-[COLOR brown]  MUNDO DIABLO 2.0 (maestro)[/COLOR]</title>
+<title>-[COLOR skyblue]  MUNDO DIABLO 2.0 [/COLOR][COLOR red] DEDICADO[/COLOR][COLOR green] A [/COLOR][COLOR purple] CATOAL [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink></externallink>	
+<thumbnail>https://i.ytimg.com/vi/_uMAAEd-HsM/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/_uMAAEd-HsM/hqdefault.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/basenetflix.xml</externallink>	
 </item>
 
 
 <item>
-<title>-[COLOR red] (Nuevo) [/COLOR]</title>
+<title>-[COLOR red] [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://entreestudiantes.upr.edu/uprh/files/2015/01/Main_Head_Banner_Cine.jpg</thumbnail>
 <fanart></fanart>
