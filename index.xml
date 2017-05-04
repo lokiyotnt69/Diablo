@@ -135,6 +135,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
  
+<item>
+<title>-[COLOR skyblue]  MUNDO DIABLO 2.0 [/COLOR][COLOR red] DEDICADO[/COLOR][COLOR green] A [/COLOR][COLOR purple] CATOAL [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/_uMAAEd-HsM/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/_uMAAEd-HsM/hqdefault.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/basenetflix.xml</externallink>	
+</item>
+
+
 
 
 <item>
@@ -146,13 +155,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-<item>
-<title>-[COLOR  yellow] TAQUILLAS MOVISTAR [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/Taquilla.xml</externallink>	
-</item>
 
  
 <item>
@@ -172,14 +174,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Zonalatina/master/Zonalatina1.xml</externallink>	
 </item>
  
- 
-<item>
-<title>[COLOR white] Lista pruebas m3u (OFF) [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.ytimg.com/vi/GEQSWJJZLxc/maxresdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/GEQSWJJZLxc/maxresdefault.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/JHGMaster1.m3u</externallink>	
-</item>
 
 
 
@@ -192,24 +186,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
   
 
-<item>
-<title>[COLOR white] Cine Diablo [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/CineJHg.xml</externallink>	
-</item>
 
-
-
-
-<item>
-<title>-[COLOR white] ESTRENOS 2016  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart>http://static2.blastingnews.com/media/photogallery/2015/12/26/290x290/b_290x290/fotografia-estrenos-del-2016_541067.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/estrenos2016.xml</externallink>	
-</item>
 
 
  
@@ -235,17 +212,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>-[COLOR brown] MUNDO INFANTIL (portadas.) [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/Mundoinfantil.xml</externallink>	
-</item>
-
-
-
-
 
 
 <item>
@@ -258,14 +224,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-<item>
-<title>-[COLOR blue] SAGAS off[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/sagas.xml</externallink>	
-</item>
 
 <item>
 <title>-[COLOR brown] EL TRUENO   Sorpresa Family [/COLOR]</title>
@@ -282,15 +240,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/generarseries.xml</externallink>	
 </item>
-
-<item>
-<title>-[COLOR skyblue]  MUNDO DIABLO 2.0 [/COLOR][COLOR red] DEDICADO[/COLOR][COLOR green] A [/COLOR][COLOR purple] CATOAL [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.ytimg.com/vi/_uMAAEd-HsM/hqdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/_uMAAEd-HsM/hqdefault.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/basenetflix.xml</externallink>	
-</item>
-
 
 <item>
 <title>-[COLOR red] [/COLOR]</title>
