@@ -94,6 +94,20 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+
+
+
+<item>
+<title>-[COLOR skyblue]  DIABLO 2.0 [/COLOR][COLOR red] DEDICADO[/COLOR][COLOR green] A [/COLOR][COLOR purple] CATOAL [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/_uMAAEd-HsM/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/_uMAAEd-HsM/hqdefault.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/basenetflix.xml</externallink>	
+</item>
+
+
+
 <item>
 <title>[COLOR blue]J.H.G. Master[/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -128,22 +142,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR white] JOTAVCDON [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i2.wp.com/iloveiptv.com.br/wp-content/uploads/2017/05/JotaVCDon-Add-on-KODI.jpg?resize=218%2C150</thumbnail>
+<fanart>https://i2.wp.com/iloveiptv.com.br/wp-content/uploads/2017/05/JotaVCDon-Add-on-KODI.jpg?resize=218%2C150</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/JotaVCDon.xml</externallink>	
 </item>
  
  
  
-<item>
-<title>-[COLOR skyblue]  MUNDO DIABLO 2.0 [/COLOR][COLOR red] DEDICADO[/COLOR][COLOR green] A [/COLOR][COLOR purple] CATOAL [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.ytimg.com/vi/_uMAAEd-HsM/hqdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/_uMAAEd-HsM/hqdefault.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/basenetflix.xml</externallink>	
-</item>
-
-
 
 
 <item>
@@ -154,6 +159,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
+ 
+<item>
+<title>-[COLOR green] VideoClub [/COLOR][COLOR white] DIABLO [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/basetodopeliculas.xml</externallink>	
+</item>
 
 
  
