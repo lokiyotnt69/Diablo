@@ -4,13 +4,6 @@
 
 
 
-<item>
- <title> PELIS A LA CARTA </title>
-<link>http://Ignoreme</link>
-<jsonrpc>plugin://plugin.video.pelisalacarta/</jsonrpc>
-<thumbnail>http://blog.tvalacarta.info/img/pelisalacarta-256x256.png</thumbnail>
-<fanart></fanart>
-</item>
 
 
 
@@ -32,14 +25,16 @@
 <externallink>&#104;&#116;&#116;&#112;&#115;://&#114;&#097;&#119;&#046;&#103;&#105;&#116;&#104;&#117;&#098;&#117;&#115;&#101;&#114;&#099;&#111;&#110;&#116;&#101;&#110;&#116;&#046;&#099;&#111;&#109;/&#067;&#097;&#114;&#108;&#101;&#115;&#116;&#111;/&#065;&#110;&#105;&#109;&#101;/&#109;&#097;&#115;&#116;&#101;&#114;/&#083;&#101;&#114;&#105;&#101;&#115;&#046;&#120;&#109;&#108;</externallink>	
 </item>
 
-<item>
-<title>[COLOR lime]J.H.G. Master[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://i.imgur.com/m61Rqj7.png</thumbnail>
-<fanart>http://i.imgur.com/LSwaeRS.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/index.xml</externallink>	
-</item>
 
+
+<item>
+<name>[COLOR yellow][COLOR  yellow] * [/COLOR][/COLOR][COLOR blue]J[/COLOR][COLOR yellow]H[/COLOR][COLOR red]G[/COLOR] [COLOR yellow][COLOR  yellow] MAster  [/COLOR] Tecnotv[/COLOR]</name>
+<link>http://ignoreme</link>
+<thumbnail>https://4.bp.blogspot.com/-vrPCE-U3qLE/WJ6xgdtKaRI/AAAAAAAAAOg/SxOHXb4uHSwtNU73Elgv-TlxnYdfvfGzwCLcB/s1600/descarga.png</thumbnail>
+<fanart>https://4.bp.blogspot.com/-jxVIDvVkcfY/WJ-hGj2zTZI/AAAAAAAAACg/eDGFCNNgfjkOX_JpMhW6Rns5lCgqlmIugCLcB/s1600/cubos-digitales-3d-hd-870.jpg</fanart>
+<link>http://ignoreme</link>
+<externallink>http://tecnotv.info/kodi/addon.xml</externallink>
+</item>
 
 
 
@@ -63,39 +58,6 @@
 </item>
 
 
- 
-<item>
-  <title>[COLOR red][COLOR  yellow]JHG  [/COLOR][/COLOR][COLOR red]J[/COLOR][COLOR yellow]H[/COLOR][COLOR blue]G[/COLOR] [COLOR red][COLOR  yellow]JHG[/COLOR]ARENAVISION ESPAÑA[/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-			 <title>[COLOR yellow][COLOR  yellow]JHG  [/COLOR][/COLOR] [COLOR yellow][COLOR  yellow] MASTER [/COLOR][makelist.param2] [/COLOR]</title>
-			
-			<link>plugin://program.plexus/?url=$doregex[hash]&amp;mode=1&amp;name=JHGMASTER +[makelist.param2]</link>
-			
-			<regex>
-			<name>hash</name>
-			<expres>\/embed\/(.*?)"</expres>
-			<page>http://freelive365.com/[makelist.param1]</page>
-			<referer>http://freelive365.com/</referer>
-			</regex>
-			<regex>
-			<name>code</name>
-			<expres>$pyFunction:('[makelist.param1]').replace(' ','%20')</expres>
-			<page></page>
-			</regex>
-
-			
-			<thumbnail>http://freelive365.com/[makelist.param3]</thumbnail>
-]]></listrepeat>
-<expres>href='(.*?)\&[\w\W\s]{0,95}70%>(.*?)<[\w\W\s]{0,25}src="(.*?)"</expres>
-<page>http://freelive365.com/live_info.php?id=6</page>
-</regex>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
- 
 
   
   
