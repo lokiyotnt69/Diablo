@@ -99,7 +99,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR skyblue]  DIABLO 2.0 [/COLOR][COLOR red] DEDICADO[/COLOR][COLOR green] A [/COLOR][COLOR purple] CATOAL [/COLOR]</title>
+<title>-[COLOR skyblue]  DIABLO 2.0 [/COLOR][COLOR red] *[/COLOR][COLOR green] A [/COLOR][COLOR purple]  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/_uMAAEd-HsM/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/_uMAAEd-HsM/hqdefault.jpg</fanart>
@@ -108,7 +108,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR pink] VideoClub [/COLOR][COLOR white] DEDICADO  [/COLOR][COLOR blue] ANABEL [/COLOR]</title>
+<title>-[COLOR pink] VideoClub [/COLOR][COLOR white] *  [/COLOR][COLOR blue] A [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/tbrxXf3ARGw/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/tbrxXf3ARGw/maxresdefault.jpg</fanart>
@@ -118,7 +118,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
 <item>
-<title>-[COLOR  red] SAGAS[/COLOR][COLOR  blue] DEDICADO [/COLOR][COLOR  yellow] ANGEL [/COLOR]</title>
+<title>-[COLOR  red] SAGAS[/COLOR][COLOR  blue] * [/COLOR][COLOR  yellow] A [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</fanart>
@@ -243,7 +243,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://pastebin.com/raw/e8Q0af2Z</externallink>	
 </item>
 
 
