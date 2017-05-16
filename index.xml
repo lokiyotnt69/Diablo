@@ -108,11 +108,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR red] CINE HD ACCIÓN [/COLOR]</title>
+<title>[COLOR red] FULL CINE HD  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://github.com/lokiyotnt69/PELICULAS2.0/blob/master/BASECINEHD.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/BASECINEHD.xml</externallink>	
 </item>
 
 
