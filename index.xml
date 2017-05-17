@@ -250,10 +250,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 
-<item>
-<title>[COLOR yellow] ****************ZONA [/COLOR][COLOR yellow] FAMILIA****************************************************** [/COLOR]</title>
-<link>http://</link>
-</item>
 
 
  
@@ -286,6 +282,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+<title>[COLOR yellow] ****************ZONA [/COLOR][COLOR yellow] FABRICACIÓN***************************************************** [/COLOR]</title>
+<link>http://</link>
+</item>
 
 <item>
 <title>[COLOR white] SERIES [/COLOR]</title>
