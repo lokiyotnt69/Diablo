@@ -106,6 +106,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>-[COLOR  yellow] TAQUILLAS MOVISTAR [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/Taquilla.xml</externallink>	
+</item>
+
 
 <item>
 <title>[COLOR red] FULL CINE HD  [/COLOR]</title>
@@ -128,7 +136,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR skyblue]  DIABLO 2.0 [/COLOR][COLOR red] *[/COLOR][COLOR green] A [/COLOR][COLOR purple]  [/COLOR]</title>
+<title>-[COLOR skyblue]  DIABLO 2.0 [/COLOR][COLOR red]  DIABLO [/COLOR][COLOR green] 2.0 [/COLOR][COLOR purple]  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/_uMAAEd-HsM/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/_uMAAEd-HsM/hqdefault.jpg</fanart>
@@ -137,7 +145,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR pink] VideoClub [/COLOR][COLOR white] *  [/COLOR][COLOR blue] A [/COLOR]</title>
+<title>-[COLOR pink] VideoClub [/COLOR][COLOR white] DIABLO  [/COLOR][COLOR blue] 2.0 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/tbrxXf3ARGw/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/tbrxXf3ARGw/maxresdefault.jpg</fanart>
@@ -147,12 +155,41 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
 <item>
-<title>-[COLOR  red] SAGAS[/COLOR][COLOR  blue] * [/COLOR][COLOR  yellow]  [/COLOR]</title>
+<title>-[COLOR  red] SAGAS[/COLOR][COLOR  blue] DIABLO [/COLOR][COLOR  yellow] 2.0 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/sagas.xml</externallink>	
 </item>
+
+
+<item>
+<title>-[COLOR white] ESTRENOS 2016  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart>http://static2.blastingnews.com/media/photogallery/2015/12/26/290x290/b_290x290/fotografia-estrenos-del-2016_541067.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/estrenos2016.xml</externallink>	
+</item>
+
+
+
+<item>
+<title>-[COLOR gold] MUNDO INFANTIL [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/Mundoinfantil.xml</externallink>	
+</item>
+
+
+
+<item>
+<title>[COLOR yellow] ****************ZONA [/COLOR][COLOR yellow] AMIGOS******************************************************** [/COLOR]</title>
+<link>http://</link>
+</item>
+
+
+
 
 
 <item>
@@ -198,6 +235,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
+<title>[COLOR yellow] ****************ZONA [/COLOR][COLOR yellow]  EXTRA******************************************************* [/COLOR]</title>
+<link>http://</link>
+</item>
+
+
+<item>
  <title>[COLOR  yellow] PELIS A LA CARTA[/COLOR]  </title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.pelisalacarta/</jsonrpc>
@@ -206,6 +249,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
  
+
+<item>
+<title>[COLOR yellow] ****************ZONA [/COLOR][COLOR yellow] FAMILIA****************************************************** [/COLOR]</title>
+<link>http://</link>
+</item>
+
 
  
 <item>
