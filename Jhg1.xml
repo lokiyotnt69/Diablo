@@ -15,7 +15,15 @@
    <externallink>http://tecnotv.info/kodi/addon.xml</externallink>
 </channel>
 
-
+<channels>
+<channel>
+    <name>[I][B][COLOR gold]PAISES [/COLOR][/I][/B]</name>
+    <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+    <externallink>https://pastebin.com/raw/rbiey3Xi</externallink>
+    <fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+    <info></info>
+</channel>
+</channels>
 
 
 <item>
