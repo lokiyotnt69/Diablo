@@ -52,7 +52,51 @@
 </channels>
 
 
-
+<channels>
+<!--  -->
+<channel>
+<name>TV Local</name>
+<thumbnail>http://i.imgur.com/nJjn7G6.png</thumbnail>
+<externallink>http://textuploader.com/58uth/raw</externallink>
+<fanart>http://i.imgur.com/6iygFmE.jpg</fanart>
+<info>Metropolitan</info>
+</channel>
+<channel>
+<name>Entretenimiento</name>
+<thumbnail>http://i.imgur.com/bzDfYpu.png</thumbnail>
+<externallink>http://textuploader.com/58utc/raw</externallink>
+<fanart>http://i.imgur.com/6iygFmE.jpg</fanart>
+<info>Metropolitan</info>
+</channel>
+<channel>
+<name>Documentales</name>
+<thumbnail>http://i.imgur.com/J0Popbi.png</thumbnail>
+<externallink>http://textuploader.com/58ut4/raw</externallink>
+<fanart>http://i.imgur.com/6iygFmE.jpg</fanart>
+<info>Metropolitan</info>
+</channel>
+<channel>
+<name>Infantil</name>
+<thumbnail>http://i.imgur.com/7SLc1p2.png</thumbnail>
+<externallink>http://textuploader.com/58utm/raw</externallink>
+<fanart>http://i.imgur.com/6iygFmE.jpg</fanart>
+<info>Metropolitan</info>
+</channel>
+<channel>
+<name>Deportes</name>
+<thumbnail>http://i.imgur.com/UVrtoru.png</thumbnail>
+<externallink>http://textuploader.com/58utj/raw</externallink>
+<fanart>http://i.imgur.com/6iygFmE.jpg</fanart>
+<info>Metropolitan</info>
+</channel>
+<channel>
+<name>Internacional</name>
+<thumbnail>http://i.imgur.com/wMcdP89.png</thumbnail>
+<externallink>http://textuploader.com/dsj3d/raw</externallink>
+<fanart>http://i.imgur.com/6iygFmE.jpg</fanart>
+<info>Metropolitan</info>
+</channel>
+</channels>
 
 
 
