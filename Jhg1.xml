@@ -102,6 +102,34 @@
 
 
 
+<channel>
+<name>[COLOR red]Netflix: [/COLOR][COLOR yellow]PelisMag.net[/COLOR]</name>
+<thumbnail>http://img.youtube.com/vi/88r1OwkSH3g/0.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+ 
+
+<item>
+<title>[COLOR red]Netflix: [/COLOR][COLOR yellow]PelisMag.net[/COLOR]</title>
+<link>ignorme</link>
+<externallink>https://dl.dropboxusercontent.com/s/s7p1czvqxep0rff/peligmagnet.html?dl=0</externallink>
+<thumbnail>http://img.youtube.com/vi/88r1OwkSH3g/0.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channel>
+
+
+<channel>
+<name>[COLOR red]Netflix: [/COLOR][COLOR yellow]EliteTorrent[/COLOR]</name>
+<thumbnail>https://www.readwriteweb.es/wp-content/uploads/2016/04/2.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+ 
+<item>
+<title>[COLOR red]Netflix: [/COLOR][COLOR yellow]EliteTorrent[/COLOR]</title>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/iycvcvb3ugfty0v/Netflix%20EliteTorrent.html?dl=0</externallink>
+<thumbnail>https://www.readwriteweb.es/wp-content/uploads/2016/04/2.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channel>
+
 
 
 
