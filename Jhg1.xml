@@ -130,6 +130,76 @@
 <fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
 </channel>
 
+<addon id="plugin.video.LiveIPTV" name="Live IPTV" version="1.6" provider-name="Michal">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.video.f4mTester" version="2.2.3" optional="true" />
+</requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+  
+ <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Live IP TV </summary>
+    <description lang="en">Live IP TV</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website>https://github.com/ramicspa/kodi</website>
+    <email></email>
+  </extension>
+</addon>
+
+<channel>
+	<id>sport365</id>
+	<name>Sport365</name>
+
+	<active>true</active>
+	<adult>false</adult>
+	<language>es</language>
+
+	<fanart></fanart>
+	<thumbnail>http://i.imgur.com/hJ2vhip.png</thumbnail>
+	<bannermenu></bannermenu>
+
+	<update_url></update_url>
+	<version>1</version>
+	<date>27/03/2017</date>
+	<changes>Version inicial</changes>
+
+	<categories>
+		<category>deportes</category>	
+	</categories>
+
+	<settings>
+		<include_in_global_search>false</include_in_global_search>
+	</settings>
+    <settings>
+        <id>include_in_agenda</id>
+        <type>bool</type>
+        <label>Incluir en Agenda Global</label>
+        <default>true</default>
+        <enabled>true</enabled>
+        <visible>true</visible>
+    </settings>
+    <settings>
+        <id>resaltar_spanish</id>
+        <type>list</type>
+        <label>Resaltar enlaces en idioma español</label>
+        <default>1</default>
+        <enabled>true</enabled>
+        <visible>true</visible>
+		<lvalues>No resaltar</lvalues>
+		<lvalues>En color amarillo</lvalues>
+		<lvalues>En color azul</lvalues>
+		<lvalues>En color marrón</lvalues>
+		<lvalues>En color violeta</lvalues>
+		<lvalues>En color naranja</lvalues>
+    </settings>
+</channel>
+
 
 
 
