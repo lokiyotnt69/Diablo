@@ -320,7 +320,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR brown] ***  [/COLOR]</title>
+<title>-[COLOR brown] ***1  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -328,12 +328,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>-[COLOR yellow]   [/COLOR]</title>
+<title>-[COLOR yellow] +  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://pastebin.com/LJqUf2aZ</externallink>	
 </item>
+
 
 
 
