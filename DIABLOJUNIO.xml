@@ -56,15 +56,7 @@
 
 
 <item>
-<title>[COLOR red] FULL CINE HD  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/BASECINEHD.xml</externallink>	
-</item>
-
-<item>
-<title>-[COLOR white] ESTRENOS 2016  [/COLOR]</title>
+<title> [COLOR red] DIABLO 2.0[/COLOR][COLOR blue] ESTRENOS [/COLOR][COLOR red]  2016  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart>http://static2.blastingnews.com/media/photogallery/2015/12/26/290x290/b_290x290/fotografia-estrenos-del-2016_541067.jpg</fanart>
@@ -81,7 +73,7 @@
 </item>
 
 <item>
-<title>[COLOR white] SERIES [/COLOR]</title>
+<title>[COLOR  red] DIABLO [/COLOR][COLOR  blue] 2.0[/COLOR][COLOR  red] SERIES [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -89,7 +81,7 @@
 </item>
 
 <item>
-<title>[COLOR  blue] PELICULAS [/COLOR][COLOR  blue] LATINO [/COLOR]</title>
+<title>[COLOR  blue] PELICULAS [/COLOR][COLOR  red] LATINO [/COLOR][COLOR  red] 2017 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -99,7 +91,7 @@
 
  
 <item>
-<title>[COLOR lime]CATOAL[/COLOR][COLOR blue] 5[/COLOR].[COLOR yellow]3[/COLOR].[COLOR red]8[/COLOR].</title>
+<title>[COLOR blue]CATOAL[/COLOR][COLOR blue] 5[/COLOR].[COLOR yellow]3[/COLOR].[COLOR red]8[/COLOR].</title>
 <link>http://ignorame</link>
 <thumbnail>http://i.imgur.com/6fioR4R.png</thumbnail>
 <fanart>http://i.imgur.com/z53W91X.png</fanart>
@@ -126,8 +118,9 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/JotaVCDon.xml</externallink>	
 </item>
  
+ 
 <item>
-<title>-[COLOR  blue] [/COLOR]</title>
+<title> [COLOR  red] [/COLOR][COLOR  blue] [/COLOR][COLOR  red] [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
