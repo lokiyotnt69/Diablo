@@ -6,60 +6,94 @@
 
 
 
-
 <item>
-<title>[COLOR red] DIABLO2.0 [/COLOR][COLOR blue] ZONA [/COLOR][COLOR red]NETFLIX[/COLOR] </title>
-<urlsolve></urlsolve>
+<title>[COLOR red] DIABLO 2.0 [/COLOR][COLOR blue] ZONA [/COLOR][COLOR red]NETFLIX[/COLOR]</title>
+<link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+<item>
+<title> [COLOR red]DIABLO2.0[/COLOR][COLOR blue] PELICULAS [/COLOR][COLOR red] INFANTILES [/COLOR]  </title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
 </item>
 
 
 
 <item>
-<title>[COLOR red]DIABLO2.0[/COLOR][COLOR blue] PELICULAS [/COLOR][COLOR red] INFANTILES [/COLOR]  </title>
-<urlsolve>/urlsolve>
+<title> [COLOR red]DIABLO2.0[/COLOR][COLOR blue] TAQUILLAS [/COLOR][COLOR red]MOVISTAR(Junio)[/COLOR]</title>
+<link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/Taquilla.xml</externallink>	
+</item>
+
+
+<item>
+<title> [COLOR red] DIABLO 2.0 [/COLOR][COLOR blue] ZONA [/COLOR][COLOR red] VIDEOCLUB [/COLOR] </title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/basetodopeliculas.xml</externallink>	
 </item>
 
 
 
 <item>
-<title>[COLOR red]DIABLO2.0[/COLOR][COLOR blue] TAQUILLAS [/COLOR][COLOR red]MOVISTAR(Junio)[/COLOR] </title>
-<urlsolve></urlsolve>
+<title> [COLOR red] DIABLO 2.0[/COLOR][COLOR blue] PELICULAS [/COLOR] [COLOR red] HD [/COLOR] </title>
+<link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/BASECINEHD.xml</externallink>	
+</item>
+
+
+<item>
+<title> [COLOR red] DIABLO 2.0[/COLOR][COLOR blue] SAGAS [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/sagas.xml</externallink>	
 </item>
 
 
 
 <item>
-<title>[COLOR red]DIABLO2.0[/COLOR][COLOR blue] ZONA [/COLOR][COLOR red] VIDEOCLUB [/COLOR] </title>
-<urlsolve></urlsolve>
+<title>-[COLOR  blue] [/COLOR]</title>
+<link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
+<externallink></externallink>	
+</item>
+
+
+<item>
+<title>-[COLOR  blue] [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
 </item>
 
 
 
 <item>
-<title>[COLOR red]DIABLO 2.0[/COLOR][COLOR blue] PELICULAS [/COLOR] [COLOR red] HD [/COLOR] </title>
-<urlsolve></urlsolve>
+<title>-[COLOR  blue] [/COLOR]</title>
+<link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
+<externallink></externallink>	
 </item>
 
 
 
 
 
-<item>
-<title>[COLOR red]DIABLO2.0[/COLOR][COLOR blue] SAGAS [/COLOR] </title>
-<urlsolve></urlsolve>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</item>
 
 
 
