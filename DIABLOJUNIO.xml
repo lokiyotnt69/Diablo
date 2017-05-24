@@ -65,7 +65,7 @@
 
 
 <item>
- <title>[COLOR  gold] PELIS A LA CARTA[/COLOR]   </title>
+ <title>[COLOR  red] PELIS [/COLOR][COLOR  blue] A [/COLOR][COLOR  red] LA CARTA [/COLOR]   </title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.pelisalacarta/</jsonrpc>
 <thumbnail>http://blog.tvalacarta.info/img/pelisalacarta-256x256.png</thumbnail>
@@ -111,7 +111,7 @@
  
 
 <item>
-<title>[COLOR white] JOTAVCDON [/COLOR]</title>
+<title>[COLOR blue] JOTAVCDON [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i2.wp.com/iloveiptv.com.br/wp-content/uploads/2017/05/JotaVCDon-Add-on-KODI.jpg?resize=218%2C150</thumbnail>
 <fanart>https://i2.wp.com/iloveiptv.com.br/wp-content/uploads/2017/05/JotaVCDon-Add-on-KODI.jpg?resize=218%2C150</fanart>
@@ -120,7 +120,7 @@
  
  
 <item>
-<title> [COLOR  red] [/COLOR][COLOR  blue] [/COLOR][COLOR  red] [/COLOR]</title>
+<title> [COLOR  red] PELIS [/COLOR][COLOR  blue] A [/COLOR][COLOR  red] LA CARTA [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
