@@ -11,7 +11,7 @@
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/BASECINEHD.xml</externallink>	
 </item>
 
 
@@ -44,13 +44,6 @@
 
 
 
-<item>
-<title> [COLOR red] DIABLO 2.0[/COLOR][COLOR blue] PELICULAS [/COLOR] [COLOR red] HD [/COLOR] </title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/BASECINEHD.xml</externallink>	
-</item>
 
 
 <item>
@@ -61,6 +54,14 @@
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/sagas.xml</externallink>	
 </item>
 
+
+<item>
+<title>[COLOR red] FULL CINE HD  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/BASECINEHD.xml</externallink>	
+</item>
 
 <item>
 <title>-[COLOR white] ESTRENOS 2016  [/COLOR]</title>
