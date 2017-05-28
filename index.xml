@@ -96,10 +96,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR  yellow] TAQUILLAS MOVISTAR [/COLOR]</title>
+<title>-[COLOR  yellow] TAQUILLAS MOVISTAR [/COLOR][COLOR red] JUNIO [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://taquilladecine.com/wp-content/uploads/2014/03/TDCGooglePlay.png</thumbnail>
+<fanart>https://taquilladecine.com/wp-content/uploads/2014/03/TDCGooglePlay.png</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/Taquilla.xml</externallink>	
 </item>
 
@@ -114,38 +114,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-  
-<item>
-<title>[COLOR white] CINE HD ACCIÓN [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/CINEHD2017.m3u</externallink>	
-</item>
-
-
-
-  
-<item>
-<title>[COLOR white] CINE HD COMEDIA [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/ComediaHD.m3u</externallink>	
-</item>
 
 
 <item>
-<title>-[COLOR skyblue]  DIABLO 2.0 [/COLOR][COLOR red]  DIABLO [/COLOR][COLOR green] 2.0 [/COLOR][COLOR purple]  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i.ytimg.com/vi/_uMAAEd-HsM/hqdefault.jpg</thumbnail>
-<fanart>https://i.ytimg.com/vi/_uMAAEd-HsM/hqdefault.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/basenetflix.xml</externallink>	
-</item>
-
-
-<item>
-<title>-[COLOR pink] VideoClub [/COLOR][COLOR white] DIABLO  [/COLOR][COLOR blue] 2.0 [/COLOR]</title>
+<title>-[COLOR pink] DIABLO  [/COLOR][COLOR white] 2.0  [/COLOR][COLOR blue] CINE [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/tbrxXf3ARGw/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/tbrxXf3ARGw/maxresdefault.jpg</fanart>
@@ -155,7 +127,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
 <item>
-<title>-[COLOR  red] SAGAS[/COLOR][COLOR  blue] DIABLO [/COLOR][COLOR  yellow] 2.0 [/COLOR]</title>
+<title>-[COLOR  red] LAS[/COLOR][COLOR  blue] MEJORES [/COLOR][COLOR  yellow] SAGAS [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</fanart>
@@ -296,6 +268,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+<title>-[COLOR skyblue]  DIABLO 2.0 [/COLOR][COLOR green] 2.0 [/COLOR][COLOR purple]  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.ytimg.com/vi/_uMAAEd-HsM/hqdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/_uMAAEd-HsM/hqdefault.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/basenetflix.xml</externallink>	
+</item>
+
 
 
 <item>
@@ -399,7 +379,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/DIABLOJUNIO.xml
+
 
 
 <item>
