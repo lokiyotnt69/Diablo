@@ -191,7 +191,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
- <title>[COLOR  gold] PELIS [/COLOR][COLOR gold] A [/COLOR][COLOR skyblue] LA CARTA [/COLOR]  </title>
+ <title>[COLOR  purple] PELIS [/COLOR][COLOR purple] A [/COLOR][COLOR skyblue] LA CARTA [/COLOR]  </title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.pelisalacarta/</jsonrpc>
 <thumbnail>http://blog.tvalacarta.info/img/pelisalacarta-256x256.png</thumbnail>
