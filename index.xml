@@ -96,7 +96,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR  yellow] TAQUILLAS MOVISTAR [/COLOR][COLOR red] JUNIO [/COLOR]</title>
+<title>[COLOR  yellow]*TAQUILLAS MOVISTAR [/COLOR][COLOR skyblue] JUNIO [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://taquilladecine.com/wp-content/uploads/2014/03/TDCGooglePlay.png</thumbnail>
 <fanart>https://taquilladecine.com/wp-content/uploads/2014/03/TDCGooglePlay.png</fanart>
@@ -105,7 +105,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR red] FULL CINE HD  [/COLOR]</title>
+<title>[COLOR red]*FULL CINE HD[/COLOR][COLOR skyblue] HD [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -114,10 +114,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
 <item>
-<title>-[COLOR pink] DIABLO  [/COLOR][COLOR white] 2.0  [/COLOR][COLOR blue] CINE [/COLOR]</title>
+<title>[COLOR pink]*DIABLO  [/COLOR][COLOR pink] 2.0  [/COLOR][COLOR skyblue] CINE [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/tbrxXf3ARGw/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/tbrxXf3ARGw/maxresdefault.jpg</fanart>
@@ -127,7 +125,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
 <item>
-<title>-[COLOR  red] LAS[/COLOR][COLOR  blue] MEJORES [/COLOR][COLOR  yellow] SAGAS [/COLOR]</title>
+<title>[COLOR  yellow]*LAS[/COLOR][COLOR  yellow] MEJORES [/COLOR][COLOR  skyblue] SAGAS [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</fanart>
@@ -136,7 +134,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR white] ESTRENOS 2016  [/COLOR]</title>
+<title>[COLOR white]*ESTRENOS 2016  [/COLOR][COLOR white] ESTRENOS 2016  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart>http://static2.blastingnews.com/media/photogallery/2015/12/26/290x290/b_290x290/fotografia-estrenos-del-2016_541067.jpg</fanart>
@@ -146,7 +144,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR gold] MUNDO INFANTIL [/COLOR]</title>
+<title>-[COLOR gold]*MUNDO INFANTIL [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -156,27 +154,16 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR red] ****************ZONA [/COLOR][COLOR yellow] AMIGOS******************************************************** [/COLOR]</title>
-<link>http://</link>
-</item>
-
-
-
-
-
-<item>
-<title>[COLOR blue]J.H.G. Master[/COLOR]</title>
+<title>[COLOR red]*J.H.G. MASTER[/COLOR][COLOR blue] MASTER [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/index.xml</externallink>	
 </item>
 
-
-
  
 <item>
-<title>[COLOR lime]CATOAL[/COLOR][COLOR blue] 5[/COLOR].[COLOR yellow]3[/COLOR].[COLOR red]8[/COLOR].</title>
+<title>[COLOR lime]*CATOAL[/COLOR][COLOR blue] 5[/COLOR].[COLOR yellow]3[/COLOR].[COLOR red]8[/COLOR].</title>
 <link>http://ignorame</link>
 <thumbnail>http://i.imgur.com/6fioR4R.png</thumbnail>
 <fanart>http://i.imgur.com/z53W91X.png</fanart>
@@ -185,18 +172,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
  
 <item>
-<title> [COLOR red] AdryanList [/COLOR]</title>
+<title> [COLOR red]*AdryanList [/COLOR]</title>
 <link>NA</link>
 <externallink>http://adryanlist.info</externallink>
 <thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
 <fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 </item>
- 
 
  
 
 <item>
-<title>[COLOR white] JOTAVCDON [/COLOR]</title>
+<title>[COLOR yellow]*JOTAVCDON [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i2.wp.com/iloveiptv.com.br/wp-content/uploads/2017/05/JotaVCDon-Add-on-KODI.jpg?resize=218%2C150</thumbnail>
 <fanart>https://i2.wp.com/iloveiptv.com.br/wp-content/uploads/2017/05/JotaVCDon-Add-on-KODI.jpg?resize=218%2C150</fanart>
@@ -205,25 +191,19 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
 
-
 <item>
-<title>[COLOR red] ****************ZONA [/COLOR][COLOR yellow]  EXTRA******************************************************* [/COLOR]</title>
-<link>http://</link>
-</item>
-
-
-<item>
- <title>[COLOR  gold] PELIS A LA CARTA[/COLOR]  </title>
+ <title>[COLOR  gold] PELIS A LA CARTA[/COLOR][COLOR gold] A [/COLOR][COLOR skyblue] LA CARTA [/COLOR]  </title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.pelisalacarta/</jsonrpc>
 <thumbnail>http://blog.tvalacarta.info/img/pelisalacarta-256x256.png</thumbnail>
 <fanart></fanart>
 </item>
 
+
  
 
 <item>
-  <title>[COLOR blue][COLOR  yellow] TECNOTV [/COLOR][/COLOR][COLOR blue]J[/COLOR][COLOR yellow]H[/COLOR][COLOR red]G[/COLOR] [COLOR yellow][COLOR  yellow] MAster  [/COLOR] Tecnotv[/COLOR]</title>
+ <title>[COLOR blue][COLOR  yellow] TECNOTV [/COLOR][/COLOR][COLOR blue]J[/COLOR][COLOR yellow]H[/COLOR][COLOR red]G[/COLOR] [COLOR yellow][COLOR  yellow] MAster  [/COLOR] Tecnotv[/COLOR]</title>
  <link>http://ignoreme</link>
 <thumbnail>https://4.bp.blogspot.com/-vrPCE-U3qLE/WJ6xgdtKaRI/AAAAAAAAAOg/SxOHXb4uHSwtNU73Elgv-TlxnYdfvfGzwCLcB/s1600/descarga.png</thumbnail>
 <fanart>https://4.bp.blogspot.com/-jxVIDvVkcfY/WJ-hGj2zTZI/AAAAAAAAACg/eDGFCNNgfjkOX_JpMhW6Rns5lCgqlmIugCLcB/s1600/cubos-digitales-3d-hd-870.jpg</fanart>
@@ -287,7 +267,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-********************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR yellow] ***************************ZONA [/COLOR][COLOR yellow] **REPARACIONES***************************************************** [/COLOR]</title>
+<link>http://</link>
+</item>  
 
 
 <item>
