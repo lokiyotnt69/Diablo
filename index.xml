@@ -384,6 +384,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
+<title>-[COLOR brown] Manos a la obra [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/Manosalaobra.xml</externallink>	
+</item>
+
+<item>
 <title>-[COLOR brown] DELIA 2 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
@@ -398,5 +406,30 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://pastebin.com/vYkds6vN</externallink>	
+</item>
+
+
+<item>
+<title>-[COLOR brown] lista 1 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://pastebin.com/jRdt3WZj</externallink>	
+</item>
+
+<item>
+<title>-[COLOR brown] lista 2 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
+
+<item>
+<title>-[COLOR brown] lista 3 [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
 </item>
 
