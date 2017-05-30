@@ -250,7 +250,22 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
+<item>
+<title>[COLOR red]*DRAGONBALL [/COLOR][COLOR red]SUPER [/COLOR][COLOR dodgerblue] HD [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/DragonballSuper.xml</externallink>	
+</item>
 
+
+<item>
+<title>[COLOR brown]*LISTA1.0 [/COLOR][COLOR dodgerblue] HD [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Peliculasdiablo1.xml</externallink>	
+</item>
  
 
 
@@ -556,15 +571,16 @@ https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Peliculasdiablo1.xm
 </item>
 
 <item>
-<title>-[COLOR brown] lista 2 [/COLOR]</title>
+<title>[COLOR red]*DRAGONBALL [/COLOR][COLOR red]SUPER [/COLOR][COLOR dodgerblue] HD [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink></externallink>	
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/DragonballSuper.xml</externallink>	
 </item>
 
+
 <item>
-<title>-[COLOR brown] lista 3 [/COLOR]</title>
+<title>[COLOR brown]*PELICULAS [/COLOR][COLOR dodgerblue] HD [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
