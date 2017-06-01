@@ -335,8 +335,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>-[COLOR red]*TOP [/COLOR][COLOR brown] 100[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://st.depositphotos.com/1911557/3033/i/950/depositphotos_30331625-stock-photo-top-300.jpg</thumbnail>
+<fanart>http://st.depositphotos.com/1911557/3033/i/950/depositphotos_30331625-stock-photo-top-300.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/TOP300.xml</externallink>	
 </item>
 
