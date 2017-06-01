@@ -329,6 +329,19 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart></fanart>
 </item>
 
+
+
+
+<item>
+<title>-[COLOR red]*TOP [/COLOR][COLOR brown] 100[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/TOP300.xml</externallink>	
+</item>
+
+
+
 <item>
 <title>[COLOR red]*DRAGONBALL [/COLOR][COLOR red]SUPER [/COLOR][COLOR dodgerblue] HD [/COLOR]</title>
 <link>http://Ignoreme</link>
