@@ -34,7 +34,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>                                  [B][COLOR lightslategray] A CATOAL, ANGEL Y ANABEL,  [/COLOR][/B] Por su gran esfuerzo       </title>
+<title>                                  [B][COLOR lightslategray] A CATOAL, ANGEL Y ANABEL,  [/COLOR][/B] Por su Enorme Apoyo      </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -66,7 +66,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>                                            [B][COLOR blue]DELIA[/COLOR][COLOR yellow]MONTSE[/COLOR][COLOR skyblue] JUANJO [/COLOR]ANGEL[COLOR red]ION[/COLOR][COLOR red][/COLOR][/B] Por su APOYO       </title>
+<title>                                            [B][COLOR blue]DELIA[/COLOR][COLOR yellow]MONTSE[/COLOR][COLOR skyblue] JUANJO [/COLOR]ANGEL[COLOR red]ION[/COLOR][COLOR red] y toda la Familia JHG [/COLOR][/B]      </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -92,6 +92,29 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR white]*ESTRENOS  [/COLOR][COLOR white] 2016  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart>http://static2.blastingnews.com/media/photogallery/2015/12/26/290x290/b_290x290/fotografia-estrenos-del-2016_541067.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/estrenos2016.xml</externallink>	
+</item>
 
 
 
@@ -134,6 +157,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://www.laizquierdadiario.com/IMG/arton10508.png</fanart>
 <thumbnail>http://www.laizquierdadiario.com/IMG/arton10508.png</thumbnail>
 </item>
+
+
 
 
 
@@ -258,14 +283,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-<item>
-<title>[COLOR white]*ESTRENOS  [/COLOR][COLOR white] 2016  [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart>http://static2.blastingnews.com/media/photogallery/2015/12/26/290x290/b_290x290/fotografia-estrenos-del-2016_541067.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/estrenos2016.xml</externallink>	
-</item>
-
 
 
 <item>
@@ -342,13 +359,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
-<title>[COLOR red]*DRAGONBALL [/COLOR][COLOR red]SUPER [/COLOR][COLOR dodgerblue] HD [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/DragonballSuper.xml</externallink>	
-</item>
+
 
 
 <item>
@@ -359,6 +370,70 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Peliculasdiablo1.xml</externallink>	
 </item>
  
+
+<item>
+<title>[COLOR yellow] ****************ZONA [/COLOR][COLOR yellow] LATINA***************************************************** [/COLOR]</title>
+<link>http://</link>
+</item>
+ 
+ 
+
+
+<item>
+<title>[COLOR yellow] ****************ZONA [/COLOR][COLOR yellow] DRAGON BALL************************************************* [/COLOR]</title>
+<link>http://</link>
+</item>
+
+
+
+<item>
+<title>[COLOR green]*SAGA Dragon Ball [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</thumbnail>
+<fanart>http://dragonball.sullca.com/wp-content/uploads/2015/07/Dragon-Ball-Super-online.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/SagaGoku.xml</externallink>	
+</item>
+ 
+
+
+
+<item>
+   <title>[COLOR red] DRAGON BALL Z[/COLOR]</title>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/73/a0/e8/73a0e8ebdc6343f23c9ed6a780da3ab2.png</fanart>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/73/a0/e8/73a0e8ebdc6343f23c9ed6a780da3ab2.png</thumbnail>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>[B][COLOR red] DRAGON BALL Z[/COLOR] [COLOR blue][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/73/a0/e8/73a0e8ebdc6343f23c9ed6a780da3ab2.png</fanart>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/73/a0/e8/73a0e8ebdc6343f23c9ed6a780da3ab2.png</thumbnail>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/SeriesHD/01-dragon-ball-z-saga-de-los-saiyajins-38255/list,1,2</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+ 
+<item>
+   <title>[COLOR red]*Dragon Ball Super T1[/COLOR]</title>
+<fanart>https://orig02.deviantart.net/c8fe/f/2015/186/7/6/dragon_ball_super_folder_icon_by_magnuncrux-d901ub1.png</fanart>
+<thumbnail>https://orig02.deviantart.net/c8fe/f/2015/186/7/6/dragon_ball_super_folder_icon_by_magnuncrux-d901ub1.png</thumbnail>
+   	<genre>
+
 
 
 <item>
