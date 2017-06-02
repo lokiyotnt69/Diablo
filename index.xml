@@ -625,6 +625,36 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+   <title>[COLOR red]*JUEGO DE TRONOS [/COLOR]</title>
+<fanart>http://orig11.deviantart.net/30b3/f/2016/010/5/2/game_of_thrones___tv_series_folder_icon_v9_by_dyiddo-d9nisdt.png</fanart>
+<thumbnail>http://orig11.deviantart.net/30b3/f/2016/010/5/2/game_of_thrones___tv_series_folder_icon_v9_by_dyiddo-d9nisdt.png</thumbnail>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>[B][COLOR red] DIABLO[/COLOR] [COLOR blue][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+<fanart>http://orig11.deviantart.net/30b3/f/2016/010/5/2/game_of_thrones___tv_series_folder_icon_v9_by_dyiddo-d9nisdt.png</fanart>
+<thumbnail>http://orig11.deviantart.net/30b3/f/2016/010/5/2/game_of_thrones___tv_series_folder_icon_v9_by_dyiddo-d9nisdt.png</thumbnail>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/SHIRKAM/juego-de-tronos-completa-49718/list,1,3</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
 
 <item>
 <title>[COLOR blue]*WALKING DEAD [/COLOR]</title>
