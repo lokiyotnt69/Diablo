@@ -585,9 +585,45 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow] ***************************ZONA [/COLOR][COLOR yellow] **REPARACIONES***************************************************** [/COLOR]</title>
+<title>[COLOR yellow] ***************************ZONA [/COLOR][COLOR yellow] **SERIES***************************************************** [/COLOR]</title>
 <link>http://</link>
 </item>  
+
+
+
+
+
+<item>
+   <title>[COLOR red]*SPARTACUS [/COLOR]</title>
+<fanart>http://icons.iconarchive.com/icons/firstline1/tv-show-mega-pack-1/512/Spartacus-Blood-and-Sand-icon.png</fanart>
+<thumbnail>http://icons.iconarchive.com/icons/firstline1/tv-show-mega-pack-1/512/Spartacus-Blood-and-Sand-icon.png</thumbnail>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>[B][COLOR red] DIABLO[/COLOR] [COLOR blue][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+<fanart>http://icons.iconarchive.com/icons/firstline1/tv-show-mega-pack-1/512/Spartacus-Blood-and-Sand-icon.png</fanart>
+<thumbnail>http://icons.iconarchive.com/icons/firstline1/tv-show-mega-pack-1/512/Spartacus-Blood-and-Sand-icon.png</thumbnail>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/chorretedebua/spartacus-42448/list,1,2</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
 
 
 <item>
@@ -598,6 +634,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/plantillaNueva.xml</externallink>	
 </item>
 
+
+
+<item>
+<title>[COLOR yellow] ***************************ZONA [/COLOR][COLOR yellow] **JHG BUSCANDO NOVEDADES**************************************************** [/COLOR]</title>
+<link>http://</link>
+</item> 
 
 <item>
 <title>-[COLOR brown] ***1  [/COLOR]</title>
@@ -783,7 +825,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR brown] MONTSE [/COLOR]</title>
+<title>-[COLOR brown] [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
