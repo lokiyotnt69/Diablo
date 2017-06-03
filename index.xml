@@ -98,7 +98,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
+<item>
+<title>[COLOR yellow] ************PREPARANDO  DETALLES LANZAMIENTO DIABLO****FECHA PREVISTA(NO TE LO VOY A DECIR)************************** [/COLOR]</title>
+<link>http://</link>
+</item>
 
 
 
@@ -109,7 +112,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR white]*ESTRENOS  [/COLOR][COLOR white] 2016  [/COLOR]</title>
+<title>[COLOR white]*ESTRENOS  [/COLOR][COLOR white] 2016 OK [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart>http://static2.blastingnews.com/media/photogallery/2015/12/26/290x290/b_290x290/fotografia-estrenos-del-2016_541067.jpg</fanart>
@@ -121,7 +124,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <items>
 	
 <item>
-<title>[COLOR yellow]*ESTRENOS [/COLOR] [COLOR yellow] 2017 [/COLOR]</title>
+<title>[COLOR yellow]*ESTRENOS [/COLOR] [COLOR yellow] 2017 OK [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -165,7 +168,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <items>
 	
 <item>
-<title>[COLOR red]*DIABLO [/COLOR] [COLOR skyblue] 1990**[/COLOR] [COLOR yellow]2016 [/COLOR]</title>
+<title>[COLOR red]*DIABLO [/COLOR] [COLOR skyblue] 1990**[/COLOR] [COLOR yellow]2016 OK[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -206,7 +209,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <items>
 	
 <item>
-<title>[COLOR red]*PELICULAS [/COLOR][COLOR red]*DIABLO 2.0 [/COLOR]</title>
+<title>[COLOR red]*LISTA [/COLOR][COLOR red]*1[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -246,7 +249,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR  yellow]*TAQUILLAS MOVISTAR [/COLOR][COLOR skyblue] JUNIO [/COLOR]</title>
+<title>[COLOR  yellow]*TAQUILLAS MOVISTAR [/COLOR][COLOR skyblue] JUNIO (KO) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://taquilladecine.com/wp-content/uploads/2014/03/TDCGooglePlay.png</thumbnail>
 <fanart>https://taquilladecine.com/wp-content/uploads/2014/03/TDCGooglePlay.png</fanart>
@@ -255,7 +258,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR red]*FULL CINE HD[/COLOR][COLOR skyblue] HD [/COLOR]</title>
+<title>[COLOR red]*FULL CINE HD[/COLOR][COLOR skyblue] HD (FALTAN)[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -265,7 +268,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR pink]*DIABLO  [/COLOR][COLOR pink] 2.0  [/COLOR][COLOR skyblue] CINE [/COLOR]</title>
+<title>[COLOR pink]*VIDEOCLUB [/COLOR][COLOR pink] DIABLO [/COLOR][COLOR skyblue] 2.0 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/tbrxXf3ARGw/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/tbrxXf3ARGw/maxresdefault.jpg</fanart>
@@ -275,7 +278,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
 <item>
-<title>[COLOR  yellow]*LAS[/COLOR][COLOR  yellow] MEJORES [/COLOR][COLOR  skyblue] SAGAS [/COLOR]</title>
+<title>[COLOR  yellow]*LAS[/COLOR][COLOR  yellow] MEJORES [/COLOR][COLOR  skyblue] SAGAS(FALTAN) [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</fanart>
@@ -286,7 +289,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR orange]*MUNDO INFANTIL [/COLOR]</title>
+<title>-[COLOR orange]*MUNDO INFANTIL (OK)[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -350,7 +353,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR red]*TOP [/COLOR][COLOR yellow] 300[/COLOR]</title>
+<title>-[COLOR red]*TOP [/COLOR][COLOR yellow] 300(25)[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://st.depositphotos.com/1911557/3033/i/950/depositphotos_30331625-stock-photo-top-300.jpg</thumbnail>
 <fanart>http://st.depositphotos.com/1911557/3033/i/950/depositphotos_30331625-stock-photo-top-300.jpg</fanart>
@@ -363,7 +366,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR brown]*LISTA1.0 [/COLOR][COLOR dodgerblue] HD [/COLOR]</title>
+<title>[COLOR brown]*LISTA2.0 [/COLOR][COLOR dodgerblue] HD [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
