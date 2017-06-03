@@ -896,78 +896,7 @@ https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Peliculasdiablo1.xm
 <title>[COLOR lime] -----------------------------------LISTA--- [/COLOR][COLOR white] ---I P T V-----2017--- [/COLOR][COLOR white] ------ 18 MAYO ------- [/COLOR]</title>
 </item>
  
- 
-<item>
-<title>[COLOR red] -IPTV 18-5-2017 ---------------[/COLOR][COLOR pink] TECNOTV - http://144.217.255.123:8000 [/COLOR][COLOR white] ESP/LATINO/PELICULAS/FR/IT/RO [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://144.217.255.123:8000/get.php?username=tecnotv&password=roxtvplus2017&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
- 
-<item>
-<title>[COLOR red] -IPTV 18-5-2017 ---------------[/COLOR][COLOR pink] RADIOSATNA - http://4k.electrodahri.com:8000 [/COLOR][COLOR white] ESP/LATINO/PELICULAS/FR/IT/RO [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://4k.electrodahri.com:8000/get.php?username=radiosatna.tk&password=BJ527TgFIf&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
- 
-<item>
-<title>[COLOR red] -IPTV 18-5-2017 ---------------[/COLOR][COLOR pink] 1 - http://bestiptv01.com:8080 [/COLOR][COLOR white] ESP/IT/UK [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://bestiptv01.com:8080/get.php?username=1&password=1&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
- 
-<item>
-<title>[COLOR red] -IPTV 18-5-2017 ---------------[/COLOR][COLOR pink] CURT - http://193.70.15.59:8000 [/COLOR][COLOR white] ESP [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://193.70.15.59:8000/get.php?username=Curt&password=Curt&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
+
  
 <item>
 <title>[COLOR deepskyblue] -IPTV 17-5-2017 ---------------[/COLOR][COLOR salmon] CARLA-ROJAS - http://104.245.96.214:8000 [/COLOR][COLOR white] LATINO/ESP/PELICULAS [/COLOR]</title>                  
@@ -987,94 +916,6 @@ https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Peliculasdiablo1.xm
 </item>
  
  
-<item>
-<title>[COLOR deepskyblue] -IPTV 17-5-2017 ---------------[/COLOR][COLOR salmon] STALKERDIRECT - http://192.99.149.20:8080 [/COLOR][COLOR white] ESP estable [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://192.99.149.20:8080/get.php?username=stalkerdirect&password=0kozpapBTb&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
- 
-<item>
-<title>[COLOR deepskyblue] -IPTV 17-5-2017 ---------------[/COLOR][COLOR salmon] RYANRIVIERE - http://37.59.26.76:6500 [/COLOR][COLOR white] ESP/UK/IT [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://37.59.26.76:6500/get.php?username=ryanriviere24@gmail.com&password=Wfdy30rB56&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
- 
-<item>
-<title>[COLOR deepskyblue] -IPTV 17-5-2017 ---------------[/COLOR][COLOR salmon] RYANRIVIERE - http://tv.iptvsensation.com:6500 [/COLOR][COLOR white] LATINO/ESP/PELICULAS [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://tv.iptvsensation.com:6500/get.php?username=ryanriviere24@gmail.com&password=Wfdy30rB56&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
- 
-<item>
-<title>[COLOR yellow] -IPTV 16-5-2017 ---------------[/COLOR][COLOR salmon] www.genatsat.com - http://geantsat-com.accesscam.org:61555 [/COLOR][COLOR white] LATINO/ESP/PELICULAS [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://geantsat-com.accesscam.org:61555/get.php?username=www.genatsat.com&password=12052017genatsat.com&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
- 
- 
-<item>
-<title>[COLOR yellow] -IPTV 16-5-2017 ---------------[/COLOR][COLOR salmon] KIKO - http://clientportal.link:8080 [/COLOR][COLOR white] LATINO/ESP/PELICULAS [/COLOR]</title>                  
-<link>$doregex[makelist2]</link>
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
-<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
-<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
-<fanart>http://fondos.fondoshd.com/images/800/galaxia-roja-5209b6db7e89e.jpg</fanart>      
-]]></listrepeat>
-<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
-<page><![CDATA[http://clientportal.link:8080/get.php?username=kiko&password=kiko1&type=m3u_plus&output=mpegts]]></page>                                    
-<cookieJar></cookieJar>
-</regex>
-</item>
  
  
 <item>
@@ -1597,25 +1438,9 @@ https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Peliculasdiablo1.xm
 </item>
  
  
-<item>
-<title>[COLOR cyan]-IPTV [/COLOR][COLOR white]GeantySat [/COLOR]</title>
-<link>$doregex[makelist]</link>
+
  
  
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>$pyFunction:('[makelist.param1] ').replace('GeantSat','list-')</title>
-<link>NA</link>
-<externallink>[makelist.param2]$$TSDOWNLOADER$$</externallink>
-<thumbnail></thumbnail>
-]]></listrepeat>
-<expres>IPTV:"(.*?)" URL="(.*?)";</expres>
-<page>http://adryanlist.org/adryan/servers.txt</page>
-</regex>
- 
-<thumbnail></thumbnail>
-</item>
  
  
 <item>
@@ -1626,34 +1451,12 @@ https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Peliculasdiablo1.xm
 <thumbnail></thumbnail>
 </item>
  
-<item>
-<title>[COLOR cyan]-LOGAN SPORT[/COLOR]</title>
-<link>ignore</link>
-<thumbnail>http://www.androidaba.com/wp-content/uploads/2016/07/LOGANADDON-LOGO-BY-ABA.png</thumbnail>
-<fanart>https://i.ytimg.com/vi/mO66K6Z8hio/maxresdefault.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/logan1983/ADDONS-MENUS/master/LOGAN%20TV%20DESPORTO.xml</externallink>
-</item>
- 
- 
- 
-<item>
-<title>[COLOR cyan]-Sr Regio [/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail></thumbnail>
-<externallink>http://srregio.com/Addon/Menus/MenuIndex.txt</externallink><fanart></fanart>
-</item>
- 
+
+
  
 
  
- 
-<item>
-<title>[COLOR cyan]-Vortech Tv[/COLOR]</title>
-<link>http://Ignoreme</link>
-<externallink>http://textuploader.com/5fhn7/raw</externallink>
-<thumbnail>http://i.imgur.com/ponDxos.jpg</thumbnail>
-<fanart>http://i.imgur.com/4EwPUOD.jpg</fanart>
-</item>
+
  
  
 <NOPitem>
@@ -1730,21 +1533,3 @@ https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Peliculasdiablo1.xm
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/primiun</externallink>
 </item>
  
- 
-<item>
-<title> [COLOR cyan]-Canales España [/COLOR]</title>
-<link>$doregex[makelist]</link>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[makelist.param2]</title>
-<link>$doregex[get-id]|User-Agent=iPad</link><regex><name>get-id</name><expres>source: '(.*?)'</expres>
-<page>http://tumarcador.xyz/ver/[makelist.param1].php</page>
-<referer>http://vercanalestv.com/tv/documentales/caza-y-pesca.html</referer></regex>
-]]></listrepeat>
-<expres>espana:"(.*?)" name:"(.*?)";</expres>
-<page>https://raw.githubusercontent.com/fgsalvaa/listas/master/serverferrer</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-</item>
