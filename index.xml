@@ -891,3 +891,366 @@ https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Peliculasdiablo1.xm
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Peliculasdiablo1.xml</externallink>	
 </item>
 
+<item>
+<link>http://Ignoreme</link>
+<title>[COLOR lime] -----------------------------------LISTA--- [/COLOR][COLOR white] ---I P T V-----2017--- [/COLOR][COLOR white] ------ 18 MAYO ------- [/COLOR]</title>
+</item>
+ 
+ 
+<item>
+<title>[COLOR red] -IPTV 18-5-2017 ---------------[/COLOR][COLOR pink] TECNOTV - http://144.217.255.123:8000 [/COLOR][COLOR white] ESP/LATINO/PELICULAS/FR/IT/RO [/COLOR]</title>                  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://144.217.255.123:8000/get.php?username=tecnotv&password=roxtvplus2017&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR red] -IPTV 18-5-2017 ---------------[/COLOR][COLOR pink] RADIOSATNA - http://4k.electrodahri.com:8000 [/COLOR][COLOR white] ESP/LATINO/PELICULAS/FR/IT/RO [/COLOR]</title>                  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://4k.electrodahri.com:8000/get.php?username=radiosatna.tk&password=BJ527TgFIf&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR red] -IPTV 18-5-2017 ---------------[/COLOR][COLOR pink] 1 - http://bestiptv01.com:8080 [/COLOR][COLOR white] ESP/IT/UK [/COLOR]</title>                  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://bestiptv01.com:8080/get.php?username=1&password=1&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR red] -IPTV 18-5-2017 ---------------[/COLOR][COLOR pink] CURT - http://193.70.15.59:8000 [/COLOR][COLOR white] ESP [/COLOR]</title>                  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://193.70.15.59:8000/get.php?username=Curt&password=Curt&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR deepskyblue] -IPTV 17-5-2017 ---------------[/COLOR][COLOR salmon] CARLA-ROJAS - http://104.245.96.214:8000 [/COLOR][COLOR white] LATINO/ESP/PELICULAS [/COLOR]</title>                  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://104.245.96.214:8000/get.php?username=Carla-Rojas&password=iptvpremium&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR deepskyblue] -IPTV 17-5-2017 ---------------[/COLOR][COLOR salmon] STALKERDIRECT - http://192.99.149.20:8080 [/COLOR][COLOR white] ESP estable [/COLOR]</title>                  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://192.99.149.20:8080/get.php?username=stalkerdirect&password=0kozpapBTb&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR deepskyblue] -IPTV 17-5-2017 ---------------[/COLOR][COLOR salmon] RYANRIVIERE - http://37.59.26.76:6500 [/COLOR][COLOR white] ESP/UK/IT [/COLOR]</title>                  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://37.59.26.76:6500/get.php?username=ryanriviere24@gmail.com&password=Wfdy30rB56&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR deepskyblue] -IPTV 17-5-2017 ---------------[/COLOR][COLOR salmon] RYANRIVIERE - http://tv.iptvsensation.com:6500 [/COLOR][COLOR white] LATINO/ESP/PELICULAS [/COLOR]</title>                  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://tv.iptvsensation.com:6500/get.php?username=ryanriviere24@gmail.com&password=Wfdy30rB56&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR yellow] -IPTV 16-5-2017 ---------------[/COLOR][COLOR salmon] www.genatsat.com - http://geantsat-com.accesscam.org:61555 [/COLOR][COLOR white] LATINO/ESP/PELICULAS [/COLOR]</title>                  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+<fanart>https://k46.kn3.net/taringa/9/F/B/A/4/B/AidBass/B6F.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://geantsat-com.accesscam.org:61555/get.php?username=www.genatsat.com&password=12052017genatsat.com&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR yellow] -IPTV 16-5-2017 ---------------[/COLOR][COLOR salmon] KIKO - http://clientportal.link:8080 [/COLOR][COLOR white] LATINO/ESP/PELICULAS [/COLOR]</title>                  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
+<fanart>http://fondos.fondoshd.com/images/800/galaxia-roja-5209b6db7e89e.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://clientportal.link:8080/get.php?username=kiko&password=kiko1&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR yellow] -IPTV 16-5-2017 ---------------[/COLOR][COLOR salmon] JOSEVALENCIA - http://163.172.213.25:8000 [/COLOR][COLOR white] LATINO/ESP/PELICULAS [/COLOR]</title>                  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0020/9212/brand.gif?itok=dyWzgfxH</thumbnail>
+<fanart>http://fondos.fondoshd.com/images/800/galaxia-roja-5209b6db7e89e.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://163.172.213.25:8000/get.php?username=Josevalencia&password=Josevalencia&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR yellow] -IPTV 16-5-2017 ---------------[/COLOR][COLOR salmon] TYRIONLTER - http://193.70.116.156:8080 [/COLOR][COLOR white] LATINO/ESP/PELICULAS [/COLOR]</title>                  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0020/9212/brand.gif?itok=dyWzgfxH</thumbnail>
+<fanart>http://fondos.fondoshd.com/images/800/galaxia-roja-5209b6db7e89e.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://toshiba13.dyndns.org:25461/get.php?username=tiryonlter&password=skypp&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR yellow] -IPTV 16-5-2017 ---------------[/COLOR][COLOR salmon] eArtg7mqgs - http://193.70.116.156:8080 [/COLOR][COLOR white] LATINO/ESP/PELICULAS [/COLOR]</title>                  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0020/9212/brand.gif?itok=dyWzgfxH</thumbnail>
+<fanart>http://fondos.fondoshd.com/images/800/galaxia-roja-5209b6db7e89e.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://193.70.116.156:8080/get.php?username=eArtg7mqgs&password=F9TKpbILxK&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR cyan] -IPTV 15-5-2017 ---------------[/COLOR][COLOR salmon] noddhie455844 - http://37.187.128.169:8000 [/COLOR][COLOR white] LATINO/ESP/PELICULAS [/COLOR]</title>                  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0020/9212/brand.gif?itok=dyWzgfxH</thumbnail>
+<fanart>http://fondos.fondoshd.com/images/800/galaxia-roja-5209b6db7e89e.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://37.187.128.169:8000/get.php?username=noddhie455844&password=47eddr55dalkj&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR cyan] -IPTV 15-5-2017 ---------------[/COLOR][COLOR salmon] CRAN - http://clientportal.link:8080 [/COLOR][COLOR white] LATINO/ESP/PELICULAS [/COLOR]</title>                  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0020/9212/brand.gif?itok=dyWzgfxH</thumbnail>
+<fanart>http://fondos.fondoshd.com/images/800/galaxia-roja-5209b6db7e89e.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://clientportal.link:8080/get.php?username=cran&password=cran&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR cyan] -IPTV 15-5-2017 ---------------[/COLOR][COLOR salmon] fHmRl7tkai - http://ns3004967.ip-151-80-35.eu:25461 [/COLOR][COLOR white] ESP/FR/DE [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0020/9212/brand.gif?itok=dyWzgfxH</thumbnail>
+<fanart>http://fondos.fondoshd.com/images/800/galaxia-roja-5209b6db7e89e.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://62.210.167.236:8010/get.php?username=fHmRl7tkai&password=Omo6NW1A2d&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR cyan] -IPTV 15-5-2017 ---------------[/COLOR][COLOR salmon] PATRICIA - http://vip.groupiptv.com:7000 [/COLOR][COLOR white] ESP/FR/DE [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0020/9212/brand.gif?itok=dyWzgfxH</thumbnail>
+<fanart>http://fondos.fondoshd.com/images/800/galaxia-roja-5209b6db7e89e.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://vip.groupiptv.com:7000/get.php?username=patricia&password=patricia&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR pink] -IPTV 14-5-2017 ---------------[/COLOR][COLOR cyan] TIRYONLTER - http://redmos.mine.nu:25461 [/COLOR][COLOR white] ESP/FR/DE [/COLOR]</title>
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0020/9212/brand.gif?itok=dyWzgfxH</thumbnail>
+<fanart>http://fondos.fondoshd.com/images/800/galaxia-roja-5209b6db7e89e.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://redmos.mine.nu:25461/get.php?username=tiryonlter&password=skypp&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR yellow] -IPTV 12-5-2017 ---------------[/COLOR][COLOR cyan] TONY1 - http://clientportal.link:8080 [/COLOR][COLOR white] LATINO/ESP/ [/COLOR]</title>                  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0020/9212/brand.gif?itok=dyWzgfxH</thumbnail>
+<fanart>http://fondos.fondoshd.com/images/800/galaxia-roja-5209b6db7e89e.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://clientportal.link:8080/get.php?username=tony1&password=tony1&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
+ 
+ 
+<item>
+<title>[COLOR yelow] -IPTV 12-5-2017 ---------------[/COLOR][COLOR cyan] JUNIOR - http://topiptv.net:5890 [/COLOR][COLOR white] LATINO/ESP/PELICULAS [/COLOR]</title>                  
+<link>$doregex[makelist2]</link>
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR cyan][makelist2.param2][/COLOR][/B]</title>
+<link>plugin://plugin.video.f4mTester/?url=[makelist2.param3]&amp;streamtype=TSDOWNLOADER&amp;name=[makelist2.param2]</link>
+<thumbnail>https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0020/9212/brand.gif?itok=dyWzgfxH</thumbnail>
+<fanart>http://fondos.fondoshd.com/images/800/galaxia-roja-5209b6db7e89e.jpg</fanart>      
+]]></listrepeat>
+<expres><![CDATA[#EXTINF:(.*),(.*)\s(http.*://(.*)/live.*ts)]]></expres>
+<page><![CDATA[http://topiptv.net:5890/get.php?username=junior&password=junior1&type=m3u_plus&output=mpegts]]></page>                                    
+<cookieJar></cookieJar>
+</regex>
+</item>
