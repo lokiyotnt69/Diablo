@@ -95,17 +95,33 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
-
 <item>
-<title>[COLOR yellow] ************PREPARANDO  DETALLES LANZAMIENTO DIABLO****FECHA PREVISTA(NO TE LO VOY A DECIR)************************** [/COLOR]</title>
+<title>[COLOR yellow] ************PREPARANDO  DETALLES LANZAMIENTO DIABLO****FECHA PREVISTA************************** [/COLOR]</title>
 <link>http://</link>
 </item>
 
 
+<item>
+<title>[COLOR red] ***********ESTAS PREPARADO??)************************** [/COLOR]</title>
+<link>http://</link>
+</item>
 
 
+<item>
+<title>[COLOR blue] *********OS PRESENTO A DIABLO 2.0************************ [/COLOR]</title>
+<link>http://</link>
+</item>
+
+
+<item>
+<title>[COLOR blue] *********DIA XXXXX LO TENDRÉIS*********************** [/COLOR]</title>
+<link>http://</link>
+</item>
+
+<item>
+<title>[COLOR blue] ********GRACIAS FAMILIA POR EL APOYO********************** [/COLOR]</title>
+<link>http://</link>
+</item>
 
 
 
