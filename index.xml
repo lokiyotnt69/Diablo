@@ -101,10 +101,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
-<item>
-<title>[COLOR red] ***********ESTAS PREPARADO??)************************** [/COLOR]</title>
-<link>http://</link>
-</item>
 
 
 <item>
@@ -114,7 +110,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLORyellow] *********DIA XXXXX LO TENDRÉIS*********************** [/COLOR]</title>
+<title>[COLOR yellow] *********DIA XXXXX LO TENDRÉIS*********************** [/COLOR]</title>
 <link>http://</link>
 </item>
 
