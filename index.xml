@@ -127,6 +127,19 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <item>
 <title>[COLOR white]*ESTRENOS  [/COLOR][COLOR white] 2016 OK [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -274,7 +287,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR red]*FULL CINE HD[/COLOR][COLOR skyblue] HD (FALTAN)[/COLOR]</title>
+<title>[COLOR red]*FULL CINE HD[/COLOR][COLOR skyblue] HD (*)[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
