@@ -26,7 +26,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
  
 <item>
-<title>                                          [COLOR yellow][B]  A G R A D E C I M I E N T O S:[/COLOR][/B]</title>
+<title>                                          [COLOR yellow][B]  ADDON CREADO Y DEDICADO A:[/COLOR][/B]</title>
 <link>http://ignorame</link>
 <externallink>http://ignorame</externallink>
 <thumbnail></thumbnail>
@@ -66,7 +66,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>                                            [B][COLOR blue]*[/COLOR][COLOR yellow]*[/COLOR][COLOR skyblue] * [/COLOR]ANGEL[COLOR red]*[/COLOR][COLOR red] y toda la Familia JHG [/COLOR][/B]      </title>
+<title>                                            [B][COLOR blue]*[/COLOR][COLOR yellow]*[/COLOR][COLOR skyblue] * [/COLOR]*[COLOR red]*[/COLOR][COLOR red] y toda la Familia JHG [/COLOR][/B]      </title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
