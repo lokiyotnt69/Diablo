@@ -96,23 +96,19 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow] ************PREPARANDO  DETALLES LANZAMIENTO DIABLO****FECHA PREVISTA************************** [/COLOR]</title>
+<title>[COLOR yellow] ************PREPARANDO  LANZAMIENTO ****FECHA PREVISTA************************** [/COLOR]</title>
 <link>http://</link>
 </item>
 
 
 
-<!--
+
 <item>
 <title>[COLOR blue] *********OS PRESENTO A DIABLO 2.0************************ [/COLOR]</title>
 <link>http://</link>
 </item>
 
 
-<item>
-<title>[COLOR yellow] *********DIA XXXXX LO TENDRÉIS*********************** [/COLOR]</title>
-<link>http://</link>
-</item>
 
 <item>
 <title>[COLOR red] ********GRACIAS FAMILIA POR EL APOYO********************** [/COLOR]</title>
@@ -125,6 +121,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>[COLOR red]*FULL [/COLOR][COLOR skyblue] HD  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://i.alza.cz/foto/LegendFoto/410190_1.jpg</thumbnail>
+<fanart>https://i.alza.cz/foto/LegendFoto/410190_1.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/BASECINEHD.xml</externallink>	
+</item>
 
 
 
@@ -135,6 +138,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<!----
 
 <item>
 <title>[COLOR white]*ESTRENOS  [/COLOR][COLOR white] 2016 OK [/COLOR]</title>
