@@ -95,14 +95,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-<item>
+<--item>
 <title>[COLOR yellow] ************PREPARANDO  DETALLES LANZAMIENTO DIABLO****FECHA PREVISTA************************** [/COLOR]</title>
 <link>http://</link>
 </item>
 
 
 
-
+<!--
 <item>
 <title>[COLOR blue] *********OS PRESENTO A DIABLO 2.0************************ [/COLOR]</title>
 <link>http://</link>
@@ -1200,3 +1200,4 @@ https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Peliculasdiablo1.xm
 <externallink>https://raw.githubusercontent.com/fgsalvaa/listas/master/primiun</externallink>
 </item>
  
+-->
