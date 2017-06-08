@@ -132,7 +132,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
+<item>
+<title>[COLOR white]  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>	
+</item>
 
 
 
@@ -327,6 +333,19 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+
+
+
+<item>
+<title>-[COLOR orange]*GNULA (OK)[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Gnula.xml</externallink>	
+</item>
+
+
+https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Gnula.xml
 
 <item>
 <title>[COLOR red]*J.H.G.[/COLOR][COLOR blue] MASTER [/COLOR]</title>
@@ -724,6 +743,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
+<item>
+<title>[COLOR blue]*WALKING DEAD [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/plantillaNueva.xml</externallink>	
+</item>
 
 
 
