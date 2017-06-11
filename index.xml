@@ -147,7 +147,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
+<item>
+<title>[COLOR red] * [/COLOR][COLOR blue] EL[/COLOR] [COLOR red] INFIERNO [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i2.esmas.com/2015/11/10/817728/diablo-624x351.jpg</thumbnail>
+<fanart>http://i2.esmas.com/2015/11/10/817728/diablo-624x351.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/EL%20INFIERNO.xml</externallink>	
+</item>
 
 
 <item>
@@ -164,8 +170,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <items>
 	
 <item>
-<title>[
-[COLOR red]* [/COLOR][COLOR blue] ESTRENOS  [/COLOR][COLOR red] 2017  [/COLOR]</title>
+<title>[COLOR red]* [/COLOR][COLOR blue] ESTRENOS  [/COLOR][COLOR red] 2017  [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -204,12 +209,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 
-
-
 <items>
 	
 <item>
-<title>[COLOR red]*DIABLO [/COLOR] [COLOR blue] 1990**[/COLOR] [COLOR red]2016 [/COLOR]</title>
+<title>[COLOR red]* [/COLOR] [COLOR blue] DIABLO [/COLOR] [COLOR red] 1990-2016 [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
   <name>makelist</name>
@@ -309,10 +312,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/BASECINEHD.xml</externallink>	
 </item>
 
+[COLOR red]* [/COLOR][COLOR blue]  [/COLOR][COLOR red]   [/COLOR]
 
 
 <item>
-<title>[COLOR pink]*VIDEOCLUB [/COLOR][COLOR pink] DIABLO [/COLOR][COLOR skyblue] 2.0 [/COLOR]</title>
+<title>[COLOR red]* [/COLOR][COLOR blue] VIDEOCLUB [/COLOR][COLOR red] DIABLO [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/tbrxXf3ARGw/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/tbrxXf3ARGw/maxresdefault.jpg</fanart>
@@ -322,7 +326,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  
 
 <item>
-<title>[COLOR  yellow]*LAS[/COLOR][COLOR  yellow] MEJORES [/COLOR][COLOR  skyblue] SAGAS(FALTAN) [/COLOR]</title>
+<title>[COLOR red]* [/COLOR][COLOR blue] DIABLO [/COLOR][COLOR red]  SAGAS [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/CK_T_lqq-gg/maxresdefault.jpg</fanart>
@@ -333,7 +337,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR orange]*MUNDO INFANTIL (OK)[/COLOR]</title>
+<title>[COLOR red]* [/COLOR][COLOR blue] MUNDO [/COLOR][COLOR red] INFANTIL [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -345,18 +349,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>-[COLOR orange]*GNULA (OK)[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Gnula.xml</externallink>	
-</item>
-
-
-https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Gnula.xml
-
-<item>
-<title>[COLOR red]*J.H.G.[/COLOR][COLOR blue] MASTER [/COLOR]</title>
+<title>[COLOR red]* [/COLOR][COLOR blue] JHG [/COLOR][COLOR red] MASTER  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
 <fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
@@ -364,17 +357,9 @@ https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Gnula.xml
 </item>
 
  
-<item>
-<title>[COLOR lime]*CATOAL[/COLOR][COLOR blue] 5[/COLOR].[COLOR yellow]3[/COLOR].[COLOR red]8[/COLOR].</title>
-<link>http://ignorame</link>
-<thumbnail>http://i.imgur.com/6fioR4R.png</thumbnail>
-<fanart>http://i.imgur.com/z53W91X.png</fanart>
-<externallink>&#104;&#116;&#116;&#112;&#115;://&#114;&#097;&#119;&#046;&#103;&#105;&#116;&#104;&#117;&#098;&#117;&#115;&#101;&#114;&#099;&#111;&#110;&#116;&#101;&#110;&#116;&#046;&#099;&#111;&#109;/&#067;&#097;&#114;&#108;&#101;&#115;&#116;&#111;/&#076;&#105;&#115;&#116;&#097;&#115;/&#109;&#097;&#115;&#116;&#101;&#114;/&#099;&#097;&#114;&#105;&#110;&#100;&#101;&#120;</externallink>
-</item>
- 
  
 <item>
-<title> [COLOR red]*AdryanList [/COLOR]</title>
+<title> [COLOR skyblue]*AdryanList [/COLOR]</title>
 <link>NA</link>
 <externallink>http://adryanlist.info</externallink>
 <thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
@@ -382,24 +367,11 @@ https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Gnula.xml
 </item>
  
 
-<item>
-<title>[COLOR yellow]*JOTAVCDON [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://i2.wp.com/iloveiptv.com.br/wp-content/uploads/2017/05/JotaVCDon-Add-on-KODI.jpg?resize=218%2C150</thumbnail>
-<fanart>https://i2.wp.com/iloveiptv.com.br/wp-content/uploads/2017/05/JotaVCDon-Add-on-KODI.jpg?resize=218%2C150</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/JotaVCDon.xml</externallink>	
-</item>
  
-<item>
-      <title>[COLOR orange]DJL IPTV ADDON [/COLOR][B][/B]</title>
-      <link>http://ignoreme</link>
-	  <thumbnail>https://www.tpg.com.au/images/IPTV_MainBanner.jpg</thumbnail>
-      <fanart>http://kodi.tv/wp-content/uploads/banner-sbs-11-600x336.png</fanart>
-      <externallink>http://bit.ly/DJLIPTV</externallink>
-</item>
+
 
 <item>
- <title>[COLOR  purple] PELIS [/COLOR][COLOR purple] A [/COLOR][COLOR skyblue] LA CARTA [/COLOR]  </title>
+ <title>[COLOR red]* [/COLOR][COLOR blue] PELIS [/COLOR][COLOR red] A  [/COLOR][COLOR red]* [/COLOR][COLOR blue] LA [/COLOR][COLOR red]  CARTA [/COLOR] </title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.pelisalacarta/</jsonrpc>
 <thumbnail>http://blog.tvalacarta.info/img/pelisalacarta-256x256.png</thumbnail>
@@ -408,9 +380,8 @@ https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Gnula.xml
 
 
 
-
 <item>
-<title>-[COLOR red]*TOP [/COLOR][COLOR yellow] 300(25)[/COLOR]</title>
+<title>[COLOR red]* [/COLOR][COLOR blue] TOP [/COLOR][COLOR red] 300 [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://st.depositphotos.com/1911557/3033/i/950/depositphotos_30331625-stock-photo-top-300.jpg</thumbnail>
 <fanart>http://st.depositphotos.com/1911557/3033/i/950/depositphotos_30331625-stock-photo-top-300.jpg</fanart>
@@ -418,12 +389,16 @@ https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Gnula.xml
 </item>
 
 
-
-
-
+<item>
+<title>[COLOR green]*	PROGRAMAS[/COLOR][COLOR skyblue] TV[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink></externallink>
+</item>
 
 <item>
-<title>[COLOR brown]*LISTA2.0 [/COLOR][COLOR dodgerblue] HD [/COLOR]</title>
+<title>[COLOR red]* [/COLOR][COLOR blue] LISTA2 [/COLOR][COLOR red] HD  [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -432,7 +407,7 @@ https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/Gnula.xml
  
 
 <item>
-<title>[COLOR yellow] ****************ZONA [/COLOR][COLOR yellow] LATINA***************************************************** [/COLOR]</title>
+<title>[COLOR red]* [/COLOR][COLOR blue] ZONA [/COLOR][COLOR red] LATINA  [/COLOR]</title>
 <link>http://</link>
 </item>
  
