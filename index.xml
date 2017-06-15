@@ -48,37 +48,24 @@ Zyattro@hotmail.com
 </item>
 
 
+<item>
+<title>[COLOR red]*MOVISTAR [/COLOR][COLOR blue] PLUS+PAISES [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
+<fanart>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</fanart>
+<externallink></externallink>	
+</item>
+
 
 
 <item>
-<title>[COLOR white]*SERVER.[/COLOR][COLOR blue][B] JHG MASTER[/B] [/COLOR][COLOR white ][I] M3U Listas[/I][/COLOR]</title>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail><fanart></fanart>
-<link>$doregex[makelist2]</link>
-
-<regex>
-<name>makelist2</name>
-<listrepeat><![CDATA[
- <title>[COLORdodgerblue]Servers[/COLOR] [makelist2.param2] </title>
- <link>$doregex[makelist]</link>
-<thumbnail>http://www.freeiptvlinks4u.com/wp-content/uploads/2016/04/uyuyuy3-1.png</thumbnail>
- ]]></listrepeat>
-<expres><![CDATA[post-title entry-title[\w\W\s]{0,23}href='(.*?)'>Daily m3u playlist (.*?)2017]]></expres>
-<page>http://iptvsatlinks.blogspot.mx/search?max-results=40</page>
-</regex>
-</regex>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
- <title>[B]SERVER [COLORdodgerblue][makelist.param1][/COLOR][/B]   - [B] USER [COLORdodgerblue][makelist.param2][/COLOR][/B] </title>
- <link>NA</link>
- <externallink>http://[makelist.param1]/get.php?username=[makelist.param2]&amp;password=[makelist.param3]&amp;type=m3u$$TSDOWNLOADER$$</externallink>
-<thumbnail></thumbnail>
- ]]></listrepeat>
-<expres><![CDATA[http:\/\/(.*?)\/g[\w\W\s]{0,12}name=(.*?)\&a[\w\W\s]{0,7}word=(.*?)\&amp]]></expres>
-<page>[makelist2.param1]</page>
-<agent>Kodi/15.2 (Windows NT 6.1) App_Bitness/32 Version/15.2-Git:20151019-02e7013</agent>
-</regex>
+<title>[COLOR red]*EVENTOS [/COLOR][COLOR blue] DEPORTIVOS [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
+<fanart>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/Eventosdeportivos.xml</externallink>	
 </item>
+
 
 
 
