@@ -46,6 +46,17 @@ Zyattro@hotmail.com
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/BASEDEPORTESJHG.xml</externallink>	
 </item>
  
+
+ 
+
+<item>
+<title>[COLOR white] NETFLIX [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://d2ygrtdi28m8fp.cloudfront.net/corporateAssets/Netflix_Logo_DigitalVideo_0701.jpg</thumbnail>
+<fanart>https://d2ygrtdi28m8fp.cloudfront.net/corporateAssets/Netflix_Logo_DigitalVideo_0701.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/VIDEOTECACAR/master/BASEVIDEOTEC.xml</externallink>	
+</item>
+
  
 
 <item>
@@ -329,8 +340,8 @@ Zyattro@hotmail.com
 <item>
 <title>[COLOR white] SERIES [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://d2ygrtdi28m8fp.cloudfront.net/corporateAssets/Netflix_Logo_DigitalVideo_0701.jpg</thumbnail>
+<fanart>https://d2ygrtdi28m8fp.cloudfront.net/corporateAssets/Netflix_Logo_DigitalVideo_0701.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Series/master/PlantillaSeries1.xml</externallink>	
 </item>
 
@@ -348,8 +359,8 @@ Zyattro@hotmail.com
 <item>
 <title>[COLOR white] EN PRUEBAS [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://d2ygrtdi28m8fp.cloudfront.net/corporateAssets/Netflix_Logo_DigitalVideo_0701.jpg</thumbnail>
+<fanart>https://d2ygrtdi28m8fp.cloudfront.net/corporateAssets/Netflix_Logo_DigitalVideo_0701.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/VIDEOTECACAR/master/BASEVIDEOTEC.xml</externallink>	
 </item>
 
