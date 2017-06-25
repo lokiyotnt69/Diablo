@@ -74,5 +74,68 @@
 	</channel>
 	
 	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] VIDEOCLUB [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/PELICULAS2.0/master/CineJHg.xml</externallink>
+	</channel>
 	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] ESTRENOS 2016[/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/ESTRENOS2017/master/estrenos2016.xml</externallink>
+	</channel>
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] SAGAS [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/Sagas-ION/master/sagas.xml</externallink>
+	</channel>
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] ZONA ENTRETENIMIENTO [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/ZONATOPMUSICA/master/BASE22.xml</externallink>
+	</channel>
+	
+	
+		<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] PROGRAMAS TV [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/Programastv.xml</externallink>
+	</channel>
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] DIABLO 2.0 [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink></externallink>
+	</channel>
+	
+		<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] DIABLO 2.0 [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink></externallink>
+	</channel>
+	
+	<channel>
+		<name>[COLOR red]=====> [/COLOR][COLOR blue] DIABLO 2.0 [/COLOR][B][COLOR red] PULSA AQUI [/COLOR][/B][COLOR red]<=====[/COLOR]</name>
+		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
+		<fanart>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</fanart>
+		<link></link>http://ignoreme
+		<externallink></externallink>
+	</channel>
 	
