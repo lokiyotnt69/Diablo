@@ -1,268 +1,149 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 
+<channels>
+<channels_info>
+<title>LReylist</title>
+<thumbnail>http://i.imgur.com/DbnjLHj.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channels_info>
+ 
+<channel>
+<name>[COLOR orange]LReylistFamiliar
+Versión Familiar 2.0.1 Premium ------> Caduca 01/01/2018[/COLOR]</name>                            
+<info></info>
+<thumbnail>http://i.imgur.com/DbnjLHj.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+
+<channel>
+<name>[COLOR darkorange]                 [/COLOR]</name>                            
+<info></info>
+<thumbnail>http://i.imgur.com/DbnjLHj.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+
+ 
+<channel>
+<name>[COLOR orange]Lista privada para Kodi, todo el contenido de esta lista está sacado[/COLOR]</name>                            
+<info></info>
+<thumbnail>http://i.imgur.com/PzkB8H4.jpg?1</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+ 
+<channel>
+<name>[COLOR orange]de internet, el uso que se le de a esta lista sera bajo vuestra absoluta
+y total responsabilidad.[/COLOR]</name>
+<info></info>
+<thumbnail>http://i.imgur.com/PzkB8H4.jpg?1</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+
+<channel>
+<name>[COLOR orange]                                                                       [/COLOR]</name>
+<info></info>
+<thumbnail>http://i.imgur.com/PzkB8H4.jpg?1</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+ 
+ 
+<channel>
+<name>[COLOR skyblue]                                             Actualizado:[/COLOR] [COLOR white]24/05/17[/COLOR]</name>      
+<info></info>
+<thumbnail>http://i.imgur.com/PzkB8H4.jpg?1</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>            
+   
+
+
+
+<channel>
+<name>[COLOR red][B]Zona Netflix[/B][/COLOR]</name>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/roxckgryw8rygot/Netflix%20Index.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/Zmwqtct.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channel>
+
+
+<channel>
+<name>[COLOR skyblue][B]Taquillas Movistar +[/B][/COLOR][COLOR orange][I] (Mayo)[/I][/COLOR]</name>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/s28chgs930kkbt1/Taquillas%20Movistar%20%2B.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/FZUe0Jc.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channel>
+
+<channel>
+<name>[COLOR yellow][B]Zona TV en directo[/B][/COLOR]</name>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/u09kxyu5579bn9f/Zona%20Television%20en%20directo.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/J43jIDN.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channel>
+
+
+<channel>
+<name>[COLOR lime][B]Zona Deportes en directo[/B][/COLOR]</name>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/yewz5thxr0ebdpi/Zona%20deportes%20en%20directo.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/hwRTmTi.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</item>
+</channel>
+
+
+<channel>
+<name>[B][COLOR red]Zona[/COLOR] [COLOR blue]WorldPa[/COLOR][COLOR white]delTour[/COLOR][/B]</name>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/lmekvd7st7je6su/WorldPadelTour.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/MSP86rs.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channel>
+
+
+
+<channel>
+<name>[B][COLOR white]Zo[/COLOR][COLOR lightgreen]na [/COLOR][COLOR orange]In[/COLOR][COLOR yellow]fan[/COLOR][COLOR violet]til[/COLOR][/B]</name>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/ao3tiipvtru09jg/Zona%20infantil%20premium.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/H8inbhN.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR silver]Zona[/COLOR][COLOR crimson] Disco y Karaoke[/COLOR][/B]</name>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/zb2deptqgiloate/zona%20disco%20y%20karaoke.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/cK4ciz6.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channel>
+
+
+<channel>
+<name>[B][COLOR blue]Zona[/COLOR][COLOR lightblue] Humor y Carnavales[/COLOR][/B]</name>
+<link>http://ignoreme</link>
+<externallink>https://dl.dropboxusercontent.com/s/xg4okch515390x8/Humor.html?dl=0</externallink>
+<thumbnail>http://i.imgur.com/bJBzNhR.jpg</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
+</channel>
+
+
+
+
+
+<channel>
+<name>                      </name>                            
+<info></info>
+<thumbnail>http://i.imgur.com/PzkB8H4.jpg?1</thumbnail>
+<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
 
 <item>
-<title>                                                       [COLOR deepskyblue][B]Video Club [/B][/COLOR][COLOR orange][I]2.2[/I][/COLOR]</title>
-<link>http://ignore.com</link>
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
+<title>             </title>
+<link>http://ignoreme</link>
+<thumbnail>http://i.imgur.com/3lAr5OI.jpg</thumbnail>
 <fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
 </item>
-
-
-
-<item>
-<title>                                                       </title>
-<link>http://ignore.com</link>
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
+</channel>
 
 
 
 
-<item>
-<title>[COLOR deepskyblue]--> [/COLOR][COLOR orange][B]ENTRAR[/B][/COLOR]</title>
-<link>ignorme</link>
-<jsonrpc>plugin://plugin.video.cine/</jsonrpc>
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
 
 
-<item>
-<title>                                                       </title>
-<link>http://ignore.com</link>
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR deepskyblue]Tarda un poco en cargar, Paciencia. 
-Son mas de 12.000 peliculas.  [/COLOR]</title>
-<link>http://ignore.com</link>
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-
-------------------------------------------------------------------------------
-
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] A[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/fu3a7md7gyrqol4/A.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-
-<tem>
-<title>                                                       </title>
-<link>http://ignore.com</link>
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] B[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/fkhpos3dhg8zmx0/B.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] C[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/wv5vnj1jbc1w8fd/C.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] D[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/aaz9vxpbed9l9l7/D.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] E[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/blsnpea8tf3q4tn/E.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] F[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/i8q5wdj1s4di4d0/F.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] G[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/297wxrke8mnkhnj/G.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] H[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/p7st9ifk63x0a2z/H.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] I[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/k9oaftidhis2vsc/I.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] J[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/evd698o9w4a9i7y/J.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] K[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/qnviqa8gxvz2ghp/K.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] L[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/ff1i5fib5jwd97b/L.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] M[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/vmsz3s0hj3e0ktd/M.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] N[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/jgp80lm8om9taqv/N.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] O[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/vcpsx22s7215rwe/O.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] P[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/fohpzyvasv6aqt1/P.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] Q[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/16c6a6apx82b5i4/Q.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] R[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/rc8peth0auc3ei0/R.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] S[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/ytxd2hn0rsui7uk/S.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] T[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/ubajbgmey8zpl8j/T.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] U[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/px2k4vqp2to6iro/U.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] V[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/vrld9a1bttuho06/V.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] W[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/fk4fraou5y7fcji/W.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letra:[/COLOR][COLOR lime][B] X[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/qwf3n1139tka9wd/X.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Letras:[/COLOR][COLOR lime][B] Y-Z[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/40d2k9qxqdfb95x/Y.Z.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
-
-<tem>
-<title>[COLOR yellow]Numeros:[/COLOR][COLOR lime][B] 0-9[/B][/COLOR]</title>
-<link>_</link>
-<externallink>https://dl.dropbox.com/s/7cxq25awut04evg/1AL10.m3u</externallink>  
-<thumbnail>http://i.imgur.com/1PiobR2.png</thumbnail>
-<fanart>http://i.imgur.com/DbnjLHj.jpg</fanart>
-</item>
+ 
+</channels>
