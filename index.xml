@@ -76,6 +76,22 @@
 
 
 
+<item>
+<title>[COLOR goldenrod]*JHGMASTER[/COLOR] [COLOR darkcyan]  IPTV Exabytetv[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=[makelist.param2].ts&amp;name=makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
+<page>http://www.exabytetv.info/ESP.m3u</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
 
 
 	
