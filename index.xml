@@ -52,6 +52,14 @@
 <fanart></fanart>
 <externallink></externallink>	
 </item>
+
+<item>
+<title>[COLOR yellow]*IPTV (NUEVO) [/COLOR]</title>
+<link>http://MENU.me</link>
+<externallink>https://goo.gl/Vp7coH</externallink>
+<fanart></fanart>
+<thumbnail></thumbnail>
+</item>
 		
 
 
@@ -124,8 +132,10 @@
 
 	
 	
+	
+	
 <item>
-<title>[COLOR red] [/COLOR][COLOR blue]  [/COLOR][COLOR red]  [/COLOR]</title>
+<title>[COLOR red] * [/COLOR][COLOR blue] SECCION [/COLOR][COLOR red] ADRYANLIST [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -134,6 +144,37 @@
 
 	
 	
+	
+	
+	
+
+	
+<item> 
+<title>[COLOR  red]* [/COLOR][COLOR blue]ADDON [/COLOR][COLOR red] ADRYANLIST[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://adryanlist.org/adryan/img/adryanlist.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/adryanlist.jpg</fanart>
+<externallink>http://adryanlist.info</externallink>	
+</item> 
+	
+
+<item> 
+<title>[COLOR  red]* [/COLOR][COLOR blue]ADDON [/COLOR][COLOR red] PLANETA[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://mundokodi.com/wp-content/uploads/2017/06/9.png?x86522</thumbnail>
+<fanart>http://mundokodi.com/wp-content/uploads/2017/06/9.png?x86522</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Documentales/master/index.xml</externallink>	
+</item> 
+
+
+<item> 
+<title>[COLOR  red]* [/COLOR][COLOR blue]ADDON[/COLOR][COLOR red]KARAOKE[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.spiritlakebooks.com/uploads/6/0/2/7/6027919/6081687_orig.jpg</thumbnail>
+<fanart>http://www.spiritlakebooks.com/uploads/6/0/2/7/6027919/6081687_orig.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/index.xml</externallink>	
+</item> 
+		
 
 	
 <item>
@@ -168,12 +209,6 @@
 		<externallink>https://www.dropbox.com/s/fvx47jwa4lu9utx/MexFLIXAddonMASTER.xml?dl=1</externallink>
 		<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 		</item>
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]KARAOKE FAMILY[/B][/COLOR] [COLOR lightyellow][/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/karaoke.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/index.xml</externallink>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-</item>
 
 
 <iem>
@@ -182,26 +217,20 @@
 <externallink>http://yancarlitoinformacion.blogspot.com.es/p/addons-yankie334tv.html</externallink>
 <fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 </item>
+
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]EXABYTE TV[/B][/COLOR] [COLOR lightyellow][/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/exabyte.jpg</thumbnail>
 <fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 <externallink>http://www.exabytetv.info/addon/main.xml</externallink><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 </item>
-	
-<iem>
-<title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]STALLION IPTV[/B][/COLOR] [COLOR lightyellow][/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/stallion.jpg</thumbnail>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<externallink>https://pastebin.com/raw/AzvJ9S7F</externallink><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-</item>
+
 
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]SUPER MOSPY TV[/B][/COLOR] [COLOR lightyellow][/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/mospytv.jpg</thumbnail>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<fanart></fanart>
 <externallink>http://www.blog.kodipro.org/Supermospy%20TV.xml</externallink>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 </item>	
 	
 	
