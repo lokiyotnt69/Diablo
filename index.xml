@@ -57,16 +57,35 @@
 
 	
 <item>
-<title>[COLOR lime]♣[/COLOR][COLOR orange]*LISTAS  [/COLOR][COLOR skyblue] MOVISTAR [/COLOR][COLOR lime]♣[/COLOR]</title>
+<title>[COLOR lime]♣[/COLOR][COLOR orange]»»»»LISTAS  [/COLOR][COLOR skyblue] MOVISTAR [/COLOR][COLOR lime]♣[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://is2.mzstatic.com/image/thumb/Purple71/v4/cc/92/3f/cc923f5f-d790-8f09-5849-35ca2ff91587/source/1200x630bb.jpg</thumbnail>
 <fanart>http://is2.mzstatic.com/image/thumb/Purple71/v4/cc/92/3f/cc923f5f-d790-8f09-5849-35ca2ff91587/source/1200x630bb.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/logan.xml</externallink>	
 </item>
 	
+
+<item>
+<title>[COLOR lime][I][B][COLOR skyblue]»»[/COLOR]AMARIKANO[COLOR skyblue][I][B][COLOR orange]TUGA[/COLOR][/I][/B][/COLOR]</title>
+<link>http://ignorame</link>
+ <thumbnail>http://i.imgur.com/LpCt4NR.jpg</thumbnail>
+ <fanart>http://i.imgur.com/tkgyJ6v.jpg</fanart>
+<externallink>https://pastebin.com/raw/6Db4UPEa</externallink>
+<info>Contenido Con muchos paises tv Digital,Gran variedad!!!</info>
+</item>
+	
+	<item>
+		<title>[COLOR lime]»»»» [/COLOR][COLOR orange]EL RINCON [/COLOR][COLOR skyblue] DEL LOLO [/COLOR]/title>
+		<link>http://ignorame</link>
+		<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/icon.png?raw=true</thumbnail>
+		<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/fanart.jpg?raw=true</fanart>
+		<externallink>http://bit.ly/RinconLolo2</externallink>
+	</item>
+	
+	
 	
 <item>
-<title>[COLOR red]♣[/COLOR][COLOR yellow] JUEGO DE [/COLOR][COLOR red] TRONOS [/COLOR]</title>
+<title>[COLOR lime]♣[/COLOR][COLOR orange] JUEGO DE [/COLOR][COLOR skyblue] TRONOS [/COLOR][COLOR lime]♣[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://okdiario.com/series/img/2016/09/07/156476.alfabetajuega-pokemon-got.jpg</thumbnail>
 <fanart>https://okdiario.com/series/img/2016/09/07/156476.alfabetajuega-pokemon-got.jpg</fanart>
@@ -76,7 +95,7 @@
 
 	
 <item>
-<title>[COLOR red]♣[/COLOR]][COLOR blue] Series [/COLOR][COLOR red] Retro  [/COLOR]</title>
+<title>[COLOR lime]♣[/COLOR]][COLOR orange] Series [/COLOR][COLOR skyblue] Retro  [/COLOR][COLOR lime]♣[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://retroworldseries.com/media/uploads/2017/03/rws-logo-transparent.png</thumbnail>
 <fanart>http://retroworldseries.com/media/uploads/2017/03/rws-logo-transparent.png</fanart>
@@ -88,7 +107,7 @@
 	
 	
 <item>
- <title>[COLOR red]♣○♣[/COLOR][COLOR  yellow] TECNOTV [/COLOR]</title>
+ <title>[COLOR lime]♣[/COLOR][COLOR  yellow] TECNOTV [/COLOR][COLOR lime]♣[/COLOR]</title>
  <link>http://ignoreme</link>
 <thumbnail>https://4.bp.blogspot.com/-vrPCE-U3qLE/WJ6xgdtKaRI/AAAAAAAAAOg/SxOHXb4uHSwtNU73Elgv-TlxnYdfvfGzwCLcB/s1600/descarga.png</thumbnail>
 <fanart>https://4.bp.blogspot.com/-jxVIDvVkcfY/WJ-hGj2zTZI/AAAAAAAAACg/eDGFCNNgfjkOX_JpMhW6Rns5lCgqlmIugCLcB/s1600/cubos-digitales-3d-hd-870.jpg</fanart>
@@ -97,7 +116,7 @@
 
 
 <item>
-<title>[COLOR red]♣○♣[/COLOR][COLOR yellow] Movistar [/COLOR][COLOR red] Paises [/COLOR]</title>
+<title>[COLOR lime]♣[/COLOR][COLOR orange] Movistar [/COLOR][COLOR skyblue] Paises [/COLOR][COLOR lime]♣[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.firstimpression.com/portals/11/Images/Travel.jpg</thumbnail>
 <fanart>http://www.firstimpression.com/portals/11/Images/Travel.jpg</fanart>
@@ -107,7 +126,7 @@
 
 
 <item>
-<title>[COLOR red]♣○♣[/COLOR][COLOR goldenrod]*JHGMASTER[/COLOR] [COLOR darkcyan]  IPTV Exabytetv[/COLOR]</title>
+<title>[COLOR lime]♣[/COLOR][COLOR goldenrod]*JHGMASTER[/COLOR] [COLOR darkcyan]  IPTV Exabytetv[/COLOR][COLOR lime]♣[/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -129,7 +148,7 @@
 	
 	
 <item>
-<title>[COLOR red]  [/COLOR][COLOR blue] [/COLOR][COLOR red]  [/COLOR]</title>
+<title>[COLOR lime]♣[/COLOR][COLOR blue] [/COLOR][COLOR red]  [/COLOR][COLOR lime]♣[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -172,48 +191,42 @@
 
 	
 <item>
-		<title>[COLOR red]•[/COLOR][COLOR skyblue]  [B]SR REGIO[/B][/COLOR]  [COLOR lightslategray] [/COLOR]</title>
+		<title>[COLOR red]•[/COLOR][COLOR skyblue]  [B]SR REGIO[/B][/COLOR]  [COLOR yellow] [/COLOR]</title>
 		<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/srregio.jpg</thumbnail> 
 		<externallink>https://pastebin.com/raw/LVdehb2N</externallink><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 	</item>
 
 <item>
-		<title>[COLOR red]•[/COLOR][COLOR skyblue]  [B]J.H.G. MASTER[/B][/COLOR]  [COLOR lightslategray] [/COLOR]</title>
+		<title>[COLOR red]•[/COLOR][COLOR skyblue]  [B]J.H.G. MASTER[/B][/COLOR]  [COLOR yellow] [/COLOR]</title>
 		<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/jhg.jpg</thumbnail> 
 		<externallink>http://raw.githubusercontent.com/lokiyotnt69/general/master/index.xml</externallink>
 		<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 		</item>
 
 <item>
-		<title>[COLOR red]•[/COLOR][COLOR skyblue]  [B]BASSFOX[/B][/COLOR]  [COLOR lightslategray] [/COLOR]</title>
+		<title>[COLOR red]•[/COLOR][COLOR skyblue]  [B]BASSFOX[/B][/COLOR]  [COLOR yellow] [/COLOR]</title>
 		<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/bassfox.jpg</thumbnail> 
 		<externallink>https://goo.gl/YuhGky</externallink><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 		</item>
 
 <item>
-		<title>[COLOR red]•[/COLOR][COLOR skyblue]  [B]TECNOTV[/B][/COLOR]  [COLOR lightslategray]  [/COLOR]</title>
+		<title>[COLOR red]•[/COLOR][COLOR skyblue]  [B]TECNOTV[/B][/COLOR]  [COLOR yellow]  [/COLOR]</title>
 		<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/tecno.jpg</thumbnail> 
 		<externallink>http://tecnotv.info/</externallink><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 </item>
 
 
 <item>
-		<title>[COLOR red]•[/COLOR][COLOR skyblue]  [B]MEXFLIX[/B][/COLOR]  [COLOR lightslategray] [/COLOR]</title>
+		<title>[COLOR red]•[/COLOR][COLOR skyblue]  [B]MEXFLIX[/B][/COLOR]  [COLOR yellow] [/COLOR]</title>
 		<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/mexflix.jpg</thumbnail> 
 		<externallink>https://www.dropbox.com/s/fvx47jwa4lu9utx/MexFLIXAddonMASTER.xml?dl=1</externallink>
 		<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 		</item>
 
 
-<iem>
-<title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]YANKIEFLIX TV[/B][/COLOR] [COLOR lightyellow][/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/yankie.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<externallink>http://yancarlitoinformacion.blogspot.com.es/p/addons-yankie334tv.html</externallink>
-<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-</item>
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]EXABYTE TV[/B][/COLOR] [COLOR lightyellow][/COLOR] </title>
+<title>[COLOR red]•[/COLOR][COLOR skyblue]  [B]EXABYTE TV[/B][/COLOR] [COLOR yellow][/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/exabyte.jpg</thumbnail>
 <fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
 <externallink>http://www.exabytetv.info/addon/main.xml</externallink><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
@@ -221,7 +234,7 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR skyblue]  [B]SUPER MOSPY TV[/B][/COLOR] [COLOR lightyellow][/COLOR] </title>
+<title>[COLOR red]•[/COLOR][COLOR skyblue]  [B]SUPER MOSPY TV[/B][/COLOR] [COLOR yellow][/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/mospytv.jpg</thumbnail>
 <fanart></fanart>
 <externallink>http://www.blog.kodipro.org/Supermospy%20TV.xml</externallink>
