@@ -50,3 +50,44 @@
 <fanart></fanart>
 </item>
 
+
+
+
+
+<item>
+   <title>[COLOR orange]*JUEGO [/COLOR][COLOR skyblue]DE [/COLOR][COLOR orange]TRONOS [/COLOR][COLOR skyblue]*TEMPORADA 7[/COLOR] </title>
+<fanart>http://tresdenegro.com/marvinews/wp-content/uploads/2017/03/game-of-thrones-season-5-trailer-logo-810x456.jpg</fanart>
+<thumbnail>http://tresdenegro.com/marvinews/wp-content/uploads/2017/03/game-of-thrones-season-5-trailer-logo-810x456.jpg</thumbnail>
+   	<genre>
+
+
+<link>$doregex[makelist]</link>
+<regex>
+      <name>makelist</name>
+      <listrepeat><![CDATA[
+               <title>[B][COLOR yellow] Episodio[/COLOR] - [COLOR blue][makelist.param0][/COLOR][/B]</title>
+               <link>$doregex[finalURL]</link>
+<fanart>http://tresdenegro.com/marvinews/wp-content/uploads/2017/03/game-of-thrones-season-5-trailer-logo-810x456.jpg</fanart>
+<thumbnail>http://tresdenegro.com/marvinews/wp-content/uploads/2017/03/game-of-thrones-season-5-trailer-logo-810x456.jpg</thumbnail>
+      ]]></listrepeat>
+      <expres><![CDATA[data-file-id="([^"]+)">.*\n.*\n.*\n.*action="\/(.*?)" class="download.*Token".*?value="(.*?)"]]></expres>
+      <page>http://diskokosmiko.mx/juan-hinojosa-garcia/juego-de-tronos-temporada-7-77534</page>
+      <cookieJar></cookieJar>
+</regex>
+<regex>
+      <name>finalURL</name>
+      <expres>Url":"(.*?)"</expres>
+      <page>http://diskokosmiko.mx/[makelist.param2]</page>
+      <rawpost>fileId=[makelist.param1]&amp;__RequestVerificationToken=[makelist.param3]</rawpost>
+      <referer>http://diskokosmiko.mx/</referer>
+      <x-req>XMLHttpRequest</x-req>
+      <cookiejar></cookiejar>
+</regex>	
+</item>
+
+<item>
+<title></title>
+<urlsolve></urlsolve>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
