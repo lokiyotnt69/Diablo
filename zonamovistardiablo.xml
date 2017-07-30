@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+
+	
+
+<item>
+<title>[COLOR lime]_**_ [/COLOR][COLOR orange] DIABLO MOVISTAR [/COLOR][COLOR yellow] _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
+<fanart>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/movistar1.0/master/Telefiveg.xml</externallink>	
+</item>	
+	
+<item>
+<title>[COLOR lime]♣[/COLOR][COLOR orange] SECCION [/COLOR][COLOR skyblue] ESPECIAL ADRYANLIST+ [/COLOR][COLOR lime]♣[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://adryanlist.org/adryan/img/fanart.jpg</thumbnail>
+<fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/ADRYjoker.xml</externallink>	
+<info>Contenido de  Adryanlist, colaborador y amigo</info>
+</item>	
+
+
+	
+<item>
+<title>[COLOR lime]♣[/COLOR][COLOR orange]»»»»LISTAS  [/COLOR][COLOR skyblue] MOVISTAR [/COLOR][COLOR lime]♣[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://is2.mzstatic.com/image/thumb/Purple71/v4/cc/92/3f/cc923f5f-d790-8f09-5849-35ca2ff91587/source/1200x630bb.jpg</thumbnail>
+<fanart>http://is2.mzstatic.com/image/thumb/Purple71/v4/cc/92/3f/cc923f5f-d790-8f09-5849-35ca2ff91587/source/1200x630bb.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGDEPORTES/master/logan.xml</externallink>	
+</item>
+	
+
+
+
+<item>
+<title>[COLOR lime]♣[/COLOR][COLOR orange] Movistar [/COLOR][COLOR skyblue] Paises [/COLOR][COLOR lime]♣[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.firstimpression.com/portals/11/Images/Travel.jpg</thumbnail>
+<fanart>http://www.firstimpression.com/portals/11/Images/Travel.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/TodoPlus/master/ZONAESPA%C3%91A.xml</externallink>	
+</item> 
+
+
+
+<item>
+<title>[COLOR lime]♣[/COLOR][COLOR goldenrod]*JHGMASTER[/COLOR] [COLOR darkcyan]  IPTV Exabytetv[/COLOR][COLOR lime]♣[/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=[makelist.param2].ts&amp;name=makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:-.*?,(.*).*\n.*?(?=http|rtmp|rtsp|mms)(.*[\d|\w])</expres>
+<page>http://www.exabytetv.info/ESP.m3u</page>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+	
+<item> 
+<title>[COLOR blue] JHG [/COLOR][COLOR yellow] IPTV  [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.nuestrasleyendasdeterror.com/wp-content/uploads/2015/04/diablo3.jpg</thumbnail>
+<fanart>https://media.melty.es/article-2693500-ajust_930-f1465659472/solo-el-diablo-es-peor-que-el-joker.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/general/master/iptv/iptv.xml</externallink>	
+</item> 
+		
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR aquamarine]  [B]IPTV[/B]   [/COLOR][COLOR lightslategray][B][World Servers Updated Daily][/B][/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/iptv.xml</externallink>
+<info>Listas y mas listas de servidores muy sencillo de usar!!!</info></item>
+	
