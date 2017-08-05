@@ -43,14 +43,6 @@
 </item>	
 			
 
-	
-<item>
-<title>[COLOR lime]_**_ [/COLOR][COLOR orange] ZONA SERIES [/COLOR][COLOR yellow] _**_ [/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>http://static.hellofriki.com/wp-content/uploads/2015/06/lista_series_7327_622x.jpg</thumbnail>
-<fanart>http://static.hellofriki.com/wp-content/uploads/2015/06/lista_series_7327_622x.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/Zonaseriesdiablo.xml</externallink>	
-</item>	
 		
 			
 <item>
@@ -121,6 +113,20 @@
 	
 	
 	<!---------------
+	
+	
+	
+	
+<item>
+<title>[COLOR lime]_**_ [/COLOR][COLOR orange] ZONA SERIES [/COLOR][COLOR yellow] _**_ [/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://static.hellofriki.com/wp-content/uploads/2015/06/lista_series_7327_622x.jpg</thumbnail>
+<fanart>http://static.hellofriki.com/wp-content/uploads/2015/06/lista_series_7327_622x.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/Zonaseriesdiablo.xml</externallink>	
+</item>	
+	
+	
+	
 	<channel>
 		<name>[COLOR red]BIENVENIDOS A [/COLOR][COLOR blue][COLOR blue]DIABLO[/COLOR][COLOR red] 2.0[/COLOR]</name>
 		<thumbnail>https://i.ytimg.com/vi/Z7wLwsJbOqs/hqdefault.jpg</thumbnail>
