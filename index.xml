@@ -4,8 +4,9 @@
 	
 
 
+	
 
-
+	
 	
 <item>
 <title>[COLOR red][/COLOR][COLOR orange]  [/COLOR][COLOR skyblue] [/COLOR][COLOR red][/COLOR]</title>
@@ -18,6 +19,7 @@
 	
 	
 <item>
+<parentalblock>true</parentalblock>
 <title>[COLOR lime]_**_ [/COLOR][COLOR skyblue] ZONA AMIGOS [/COLOR][COLOR yellow] _**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://como-conquistaraunamujer.com/blog/wp-content/uploads/2015/05/friend-zone-danger-600x300.jpg</thumbnail>
@@ -26,6 +28,7 @@
 </item>	
 	
 <item>
+<parentalblock>true</parentalblock>
 <title>[COLOR lime]_**_ [/COLOR][COLOR orange] ZONA  CANALES MOVISTAR[/COLOR][COLOR yellow] _**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://yt3.ggpht.com/-8pk1aW4ic3k/AAAAAAAAAAI/AAAAAAAAAAA/5WJfssTwLr8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
@@ -46,6 +49,7 @@
 		
 			
 <item>
+<parentalblock>true</parentalblock>
 <title>[COLOR yellow]Movistar Plus[/COLOR][COLOR white] supermospy[/COLOR] [COLOR violet][I](Actualizado 29-07-2017 del creador)[/I][/COLOR]</title>
 <link>http://ignoreme</link>
 <externallink>http://addons.kodipro.org/canales%20plus.xml</externallink>
