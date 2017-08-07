@@ -2,8 +2,20 @@
 
 
 
-	
+	https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/LISTASIPTV.xml
 
+	
+	
+	
+<item> 
+<title>[COLOR yellow]_**_ [/COLOR][COLOR  skyblue] LISTAS IPTV [/COLOR][COLOR yellow] _**_[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://i.imgur.com/ua2fWAv.jpg</thumbnail>
+<fanart>http://i.imgur.com/ua2fWAv.jpg</fanart>
+<externallink>	https://raw.githubusercontent.com/lokiyotnt69/ELDIABLO3.0/master/LISTASIPTV.xml</externallink>	
+</item> 	
+		
+	
 <item>
 <title>[COLOR lime]_**_ [/COLOR][COLOR orange] DIABLO MOVISTAR [/COLOR][COLOR yellow] _**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
@@ -21,6 +33,15 @@
 <info>Contenido de  Adryanlist, colaborador y amigo</info>
 </item>	
 
+			
+<item>
+<parentalblock>true</parentalblock>
+<title>[COLOR yellow]Movistar Plus[/COLOR][COLOR white] SUPERMOSPY[/COLOR] </title>
+<link>http://ignoreme</link>
+<externallink>http://addons.kodipro.org/canales%20plus.xml</externallink>
+<thumbnail>http://i.imgur.com/ua2fWAv.jpg</thumbnail>
+<fanart>http://i.imgur.com/ua2fWAv.jpg</fanart>
+</item>
 
 	
 <item>
