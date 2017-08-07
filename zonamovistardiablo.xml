@@ -17,7 +17,7 @@
 		
 	
 <item>
-<title>[COLOR lime]_**_ [/COLOR][COLOR orange] DIABLO MOVISTAR [/COLOR][COLOR yellow] _**_ [/COLOR]</title>
+<title>[COLOR lime]_**_ [/COLOR][COLOR orange] DIABLO SPORTDEVIL [/COLOR][COLOR yellow] _**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</thumbnail>
 <fanart>https://tecmoviles.com/wp-content/uploads/2017/01/movistar-plus-600x416.jpg</fanart>
@@ -25,7 +25,7 @@
 </item>	
 	
 <item>
-<title>[COLOR lime]♣[/COLOR][COLOR orange] SECCION [/COLOR][COLOR skyblue] ESPECIAL ADRYANLIST+ [/COLOR][COLOR lime]♣[/COLOR]</title>
+<title>[COLOR lime]_**_ [/COLOR][COLOR orange] ESPECIAL ADRYANLIST [/COLOR][COLOR yellow] _**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://adryanlist.org/adryan/img/fanart.jpg</thumbnail>
 <fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
@@ -35,8 +35,7 @@
 
 			
 <item>
-<parentalblock>true</parentalblock>
-<title>[COLOR yellow]Movistar Plus[/COLOR][COLOR white] SUPERMOSPY[/COLOR] </title>
+<title>[COLOR lime]_**_ [/COLOR][COLOR orange] SUPERMOSPY [/COLOR][COLOR yellow] _**_ [/COLOR] </title>
 <link>http://ignoreme</link>
 <externallink>http://addons.kodipro.org/canales%20plus.xml</externallink>
 <thumbnail>http://i.imgur.com/ua2fWAv.jpg</thumbnail>
@@ -45,7 +44,7 @@
 
 	
 <item>
-<title>[COLOR lime]♣[/COLOR][COLOR orange]»»»»LISTAS  [/COLOR][COLOR skyblue] MOVISTAR [/COLOR][COLOR lime]♣[/COLOR]</title>
+<title>[COLOR lime]_**_ [/COLOR][COLOR orange] ESPECIAL SERVER LOGAN [/COLOR][COLOR yellow] _**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://is2.mzstatic.com/image/thumb/Purple71/v4/cc/92/3f/cc923f5f-d790-8f09-5849-35ca2ff91587/source/1200x630bb.jpg</thumbnail>
 <fanart>http://is2.mzstatic.com/image/thumb/Purple71/v4/cc/92/3f/cc923f5f-d790-8f09-5849-35ca2ff91587/source/1200x630bb.jpg</fanart>
@@ -56,7 +55,7 @@
 
 
 <item>
-<title>[COLOR lime]♣[/COLOR][COLOR orange] Movistar [/COLOR][COLOR skyblue] Paises [/COLOR][COLOR lime]♣[/COLOR]</title>
+<title>[COLOR lime]_**_ [/COLOR][COLOR orange] MUNDO PAISES [/COLOR][COLOR yellow] _**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.firstimpression.com/portals/11/Images/Travel.jpg</thumbnail>
 <fanart>http://www.firstimpression.com/portals/11/Images/Travel.jpg</fanart>
@@ -66,7 +65,7 @@
 
 
 <item>
-<title>[COLOR lime]♣[/COLOR][COLOR goldenrod]*JHGMASTER[/COLOR] [COLOR darkcyan]  IPTV Exabytetv[/COLOR][COLOR lime]♣[/COLOR]</title>
+<title>[COLOR lime]_**_ [/COLOR][COLOR orange] LISTA EXABYTE[/COLOR][COLOR yellow] _**_ [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
@@ -84,7 +83,7 @@
 
 	
 <item> 
-<title>[COLOR blue] JHG [/COLOR][COLOR yellow] IPTV  [/COLOR]</title>
+<title>[COLOR lime]_**_ [/COLOR][COLOR orange]IPTV JHGMASTER [/COLOR][COLOR yellow] _**_ [/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://www.nuestrasleyendasdeterror.com/wp-content/uploads/2015/04/diablo3.jpg</thumbnail>
 <fanart>https://media.melty.es/article-2693500-ajust_930-f1465659472/solo-el-diablo-es-peor-que-el-joker.jpg</fanart>
@@ -92,9 +91,5 @@
 </item> 
 		
 
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR aquamarine]  [B]IPTV[/B]   [/COLOR][COLOR lightslategray][B][World Servers Updated Daily][/B][/COLOR] </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/iptv.jpg</thumbnail><fanart>http://adryanlist.org/adryan/img/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/iptv.xml</externallink>
-<info>Listas y mas listas de servidores muy sencillo de usar!!!</info></item>
+
 	
